@@ -1,0 +1,4384 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Workintry\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-03 05:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: workintry"
+
+#: includes/hooks.php:454
+msgid " - & above"
+msgstr ""
+
+#: workintry/templates/template-parts/author-profile.php:138
+#: workintry/templates/template-parts/author.php:170
+msgid " Jobs"
+msgstr ""
+
+#: admin/workintry-data.php:284 admin/workintry-data.php:359
+#: admin/workintry-data.php:434
+#: workintry/front-end/dashboard-templates/add.php:187
+#: workintry/front-end/dashboard-templates/add.php:220
+#: workintry/front-end/dashboard-templates/add.php:253
+#: workintry/front-end/dashboard-templates/edit-home.php:318
+#: workintry/front-end/dashboard-templates/edit-home.php:404
+#: workintry/front-end/dashboard-templates/edit-home.php:490
+msgid ")"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:302
+#: workintry/templates/registration.php:313
+msgid "+1 2345 673"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:48
+#: workintry/front-end/dashboard-templates/edit-home.php:112
+msgid "0"
+msgstr ""
+
+#: workintry/front-end/functions.php:1691
+msgid "1"
+msgstr ""
+
+#: workintry/settings-page.php:531
+msgid "1 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:71 workintry/meta-boxes.php:104
+#: workintry/meta-boxes.php:137 workintry/front-end/functions.php:1737
+msgid "1 Day"
+msgstr ""
+
+#: workintry/settings-page.php:391
+msgid "1 day"
+msgstr ""
+
+#: workintry/meta-boxes.php:72 workintry/meta-boxes.php:105
+#: workintry/meta-boxes.php:138
+msgid "1 Days"
+msgstr ""
+
+#: workintry/settings-page.php:56 workintry/settings-page.php:337
+#: workintry/settings-page.php:355 workintry/settings-page.php:373
+msgid "1 Gig"
+msgstr ""
+
+#: workintry/meta-boxes.php:700 workintry/meta-boxes.php:711
+msgid "1 Revision"
+msgstr ""
+
+#: includes/hooks.php:656
+msgid "1.0"
+msgstr ""
+
+#: includes/hooks.php:430 workintry/front-end/functions.php:1718
+msgid "10"
+msgstr ""
+
+#: workintry/settings-page.php:540
+msgid "10 %"
+msgstr ""
+
+#: includes/hooks.php:418
+msgid "10 and below"
+msgstr ""
+
+#: workintry/meta-boxes.php:80 workintry/meta-boxes.php:113
+#: workintry/meta-boxes.php:146 workintry/front-end/functions.php:1764
+msgid "10 Days"
+msgstr ""
+
+#: workintry/settings-page.php:400
+msgid "10 days"
+msgstr ""
+
+#: workintry/settings-page.php:65 workintry/settings-page.php:346
+#: workintry/settings-page.php:364 workintry/settings-page.php:382
+msgid "10 Gigs"
+msgstr ""
+
+#: workintry/settings-page.php:541
+msgid "11 %"
+msgstr ""
+
+#: workintry/settings-page.php:542
+msgid "12 %"
+msgstr ""
+
+#: workintry/settings-page.php:543
+msgid "13 %"
+msgstr ""
+
+#: workintry/settings-page.php:544
+msgid "14 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:81 workintry/meta-boxes.php:114
+#: workintry/meta-boxes.php:147 workintry/front-end/functions.php:1767
+msgid "14 Days"
+msgstr ""
+
+#: workintry/settings-page.php:545
+msgid "15 %"
+msgstr ""
+
+#: workintry/settings-page.php:546
+msgid "16 %"
+msgstr ""
+
+#: workintry/settings-page.php:547
+msgid "17 %"
+msgstr ""
+
+#: workintry/settings-page.php:548
+msgid "18 %"
+msgstr ""
+
+#: workintry/settings-page.php:549
+msgid "19 %"
+msgstr ""
+
+#: workintry/front-end/functions.php:1694
+msgid "2"
+msgstr ""
+
+#: workintry/settings-page.php:532
+msgid "2 %"
+msgstr ""
+
+#: workintry/front-end/functions.php:1740
+msgid "2 Days"
+msgstr ""
+
+#: workintry/settings-page.php:392
+msgid "2 days"
+msgstr ""
+
+#: workintry/settings-page.php:338 workintry/settings-page.php:356
+#: workintry/settings-page.php:374
+msgid "2 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:57
+msgid "2 Gigs"
+msgstr ""
+
+#: workintry/meta-boxes.php:701 workintry/meta-boxes.php:712
+msgid "2 Revisions"
+msgstr ""
+
+#: includes/hooks.php:644
+msgid "2.0"
+msgstr ""
+
+#: workintry/settings-page.php:550
+msgid "20 %"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:303
+msgid "2021"
+msgstr ""
+
+#: workintry/settings-page.php:551
+msgid "21 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:82 workintry/meta-boxes.php:115
+#: workintry/meta-boxes.php:148 workintry/front-end/functions.php:1770
+msgid "21 Days"
+msgstr ""
+
+#: workintry/settings-page.php:401
+msgid "21 days"
+msgstr ""
+
+#: workintry/settings-page.php:552
+msgid "22 %"
+msgstr ""
+
+#: workintry/settings-page.php:553
+msgid "23 %"
+msgstr ""
+
+#: workintry/settings-page.php:554
+msgid "24 %"
+msgstr ""
+
+#: workintry/settings-page.php:555
+msgid "25 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:83 workintry/meta-boxes.php:116
+#: workintry/meta-boxes.php:149 workintry/front-end/functions.php:1773
+msgid "28 Days"
+msgstr ""
+
+#: workintry/settings-page.php:402
+msgid "28 days"
+msgstr ""
+
+#: workintry/front-end/functions.php:1697
+msgid "3"
+msgstr ""
+
+#: workintry/settings-page.php:533
+msgid "3 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:73 workintry/meta-boxes.php:106
+#: workintry/meta-boxes.php:139 workintry/front-end/functions.php:1743
+msgid "3 Days"
+msgstr ""
+
+#: workintry/settings-page.php:393
+msgid "3 days"
+msgstr ""
+
+#: workintry/settings-page.php:339 workintry/settings-page.php:357
+#: workintry/settings-page.php:375
+msgid "3 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:58
+msgid "3 Gigs"
+msgstr ""
+
+#: workintry/meta-boxes.php:702 workintry/meta-boxes.php:713
+msgid "3 Revisions"
+msgstr ""
+
+#: includes/hooks.php:632
+msgid "3.0"
+msgstr ""
+
+#: includes/hooks.php:430 includes/hooks.php:442
+msgid "30"
+msgstr ""
+
+#: workintry/settings-page.php:556
+msgid "30 %"
+msgstr ""
+
+#: workintry/settings-page.php:403
+msgid "30 days"
+msgstr ""
+
+#: workintry/meta-boxes.php:84 workintry/meta-boxes.php:117
+#: workintry/meta-boxes.php:150 workintry/front-end/functions.php:1776
+msgid "35 Days"
+msgstr ""
+
+#: workintry/front-end/functions.php:1700
+msgid "4"
+msgstr ""
+
+#: workintry/settings-page.php:534
+msgid "4 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:74 workintry/meta-boxes.php:107
+#: workintry/meta-boxes.php:140 workintry/front-end/functions.php:1746
+msgid "4 Days"
+msgstr ""
+
+#: workintry/settings-page.php:394
+msgid "4 days"
+msgstr ""
+
+#: workintry/settings-page.php:340 workintry/settings-page.php:358
+#: workintry/settings-page.php:376
+msgid "4 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:59
+msgid "4 Gigs"
+msgstr ""
+
+#: includes/hooks.php:620
+msgid "4.0"
+msgstr ""
+
+#: workintry/settings-page.php:557
+msgid "40 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:85 workintry/meta-boxes.php:118
+#: workintry/meta-boxes.php:151 workintry/front-end/functions.php:1779
+msgid "45 Days"
+msgstr ""
+
+#: workintry/front-end/functions.php:1703
+msgid "5"
+msgstr ""
+
+#: workintry/settings-page.php:535
+msgid "5 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:75 workintry/meta-boxes.php:108
+#: workintry/meta-boxes.php:141 workintry/front-end/functions.php:1749
+msgid "5 Days"
+msgstr ""
+
+#: workintry/settings-page.php:395
+msgid "5 days"
+msgstr ""
+
+#: workintry/settings-page.php:341 workintry/settings-page.php:359
+#: workintry/settings-page.php:377
+msgid "5 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:60
+msgid "5 Gigs"
+msgstr ""
+
+#: includes/hooks.php:608
+msgid "5.0"
+msgstr ""
+
+#: workintry/settings-page.php:558
+msgid "50 %"
+msgstr ""
+
+#: workintry/front-end/functions.php:1706
+msgid "6"
+msgstr ""
+
+#: workintry/settings-page.php:536
+msgid "6 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:76 workintry/meta-boxes.php:109
+#: workintry/meta-boxes.php:142 workintry/front-end/functions.php:1752
+msgid "6 Days"
+msgstr ""
+
+#: workintry/settings-page.php:396
+msgid "6 days"
+msgstr ""
+
+#: workintry/settings-page.php:342 workintry/settings-page.php:360
+#: workintry/settings-page.php:378
+msgid "6 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:61
+msgid "6 Gigs"
+msgstr ""
+
+#: includes/hooks.php:442 includes/hooks.php:454
+msgid "60"
+msgstr ""
+
+#: workintry/meta-boxes.php:86 workintry/meta-boxes.php:119
+#: workintry/meta-boxes.php:152 workintry/front-end/functions.php:1782
+msgid "60 Days"
+msgstr ""
+
+#: workintry/front-end/functions.php:1709
+msgid "7"
+msgstr ""
+
+#: workintry/settings-page.php:537
+msgid "7 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:77 workintry/meta-boxes.php:110
+#: workintry/meta-boxes.php:143 workintry/front-end/functions.php:1755
+msgid "7 Days"
+msgstr ""
+
+#: workintry/settings-page.php:397
+msgid "7 days"
+msgstr ""
+
+#: workintry/settings-page.php:343 workintry/settings-page.php:361
+#: workintry/settings-page.php:379
+msgid "7 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:62
+msgid "7 Gigs"
+msgstr ""
+
+#: workintry/meta-boxes.php:87 workintry/meta-boxes.php:120
+#: workintry/meta-boxes.php:153 workintry/front-end/functions.php:1785
+msgid "75 Days"
+msgstr ""
+
+#: workintry/front-end/functions.php:1712
+msgid "8"
+msgstr ""
+
+#: workintry/settings-page.php:538
+msgid "8 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:78 workintry/meta-boxes.php:111
+#: workintry/meta-boxes.php:144 workintry/front-end/functions.php:1758
+msgid "8 Days"
+msgstr ""
+
+#: workintry/settings-page.php:398
+msgid "8 days"
+msgstr ""
+
+#: workintry/settings-page.php:344 workintry/settings-page.php:362
+#: workintry/settings-page.php:380
+msgid "8 Gig"
+msgstr ""
+
+#: workintry/settings-page.php:63
+msgid "8 Gigs"
+msgstr ""
+
+#: workintry/front-end/functions.php:1715
+msgid "9"
+msgstr ""
+
+#: workintry/settings-page.php:539
+msgid "9 %"
+msgstr ""
+
+#: workintry/meta-boxes.php:79 workintry/meta-boxes.php:112
+#: workintry/meta-boxes.php:145 workintry/front-end/functions.php:1761
+msgid "9 Days"
+msgstr ""
+
+#: workintry/settings-page.php:399
+msgid "9 days"
+msgstr ""
+
+#: workintry/settings-page.php:64 workintry/settings-page.php:345
+#: workintry/settings-page.php:363 workintry/settings-page.php:381
+msgid "9 Gigs"
+msgstr ""
+
+#: workintry/meta-boxes.php:88 workintry/meta-boxes.php:121
+#: workintry/meta-boxes.php:154 workintry/front-end/functions.php:1788
+msgid "90 Days"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:389
+msgid "A Bit Satisfied: 2 stars"
+msgstr ""
+
+#: includes/functions.php:334
+msgid "A link has been sent, please check your email."
+msgstr ""
+
+#: workintry/email-hooks.php:14
+msgid "A new user registered, here is the edit page link"
+msgstr ""
+
+#: workintry/meta-boxes.php:242
+msgid "About"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:326
+msgid "Accept As Complete"
+msgstr ""
+
+#: functions.php:122
+msgid "Accept as completed"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/listings.php:84
+msgid "Active"
+msgstr ""
+
+#: includes/hooks.php:729
+msgid "Active Gigs"
+msgstr ""
+
+#: workintry/meta-boxes.php:592
+msgid "Actual Price"
+msgstr ""
+
+#: workintry/front-end/functions.php:1284
+msgid "Ad deleted successfully"
+msgstr ""
+
+#: workintry/settings-page.php:469
+msgid "Ad Report Options"
+msgstr ""
+
+#: admin/post-types.php:445
+msgid "Ad Type"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:373
+#: workintry/front-end/dashboard-templates/edit-home.php:611
+msgid "Add Common FAQ's"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:62
+#: workintry/front-end/dashboard-templates/edit-home.php:126
+msgid "Add F.A.Q (optional)"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:374
+#: workintry/front-end/dashboard-templates/edit-home.php:612
+msgid "Add FAQ+"
+msgstr ""
+
+#: admin/post-types.php:30
+msgid "Add Gig"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:75
+msgid "Add Gig Details"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:260
+#: workintry/front-end/dashboard-templates/edit-home.php:498
+msgid "Add Gig Extra Services"
+msgstr ""
+
+#: admin/post-types.php:276
+msgid "Add Gig Orders"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:359
+#: workintry/front-end/dashboard-templates/edit-home.php:597
+msgid "Add Gig Tag's (required)"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:54
+#: workintry/front-end/dashboard-templates/edit-home.php:118
+msgid "Add gig title (required)"
+msgstr ""
+
+#: admin/post-types.php:108
+msgid "Add New Category"
+msgstr ""
+
+#: admin/post-types.php:219
+msgid "Add New City"
+msgstr ""
+
+#: admin/post-types.php:191
+msgid "Add New Country"
+msgstr ""
+
+#: admin/post-types.php:31
+msgid "Add New Gig"
+msgstr ""
+
+#: admin/post-types.php:277
+msgid "Add New Gig Order"
+msgstr ""
+
+#: includes/custom-woocommerce.php:73
+msgid "Add New Package"
+msgstr ""
+
+#: admin/post-types.php:163
+msgid "Add New Service"
+msgstr ""
+
+#: admin/post-types.php:68
+msgid "Add New Shortcode"
+msgstr ""
+
+#: admin/post-types.php:136
+msgid "Add New Sub Category"
+msgstr ""
+
+#: admin/post-types.php:247
+msgid "Add New Tag"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:153
+#: workintry/front-end/dashboard-templates/edit-home.php:232
+msgid "Add Offering Packages"
+msgstr ""
+
+#: includes/custom-woocommerce.php:72
+msgid "Add Package"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:423
+#: workintry/front-end/dashboard-templates/edit-home.php:702
+msgid "Add Question Here:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:416
+#: workintry/front-end/dashboard-templates/edit-home.php:695
+msgid "Add Question Here: "
+msgstr ""
+
+#: admin/post-types.php:67
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/workintry-data.php:219 admin/workintry-data.php:294
+#: admin/workintry-data.php:369
+#: workintry/front-end/dashboard-templates/add.php:164
+#: workintry/front-end/dashboard-templates/add.php:197
+#: workintry/front-end/dashboard-templates/add.php:230
+#: workintry/front-end/dashboard-templates/edit-home.php:244
+#: workintry/front-end/dashboard-templates/edit-home.php:330
+#: workintry/front-end/dashboard-templates/edit-home.php:416
+msgid "Add Title Here"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:386
+msgid "Add Your Rating:"
+msgstr ""
+
+#: workintry/templates/single-workintry.php:30
+#: workintry/templates/template-parts/author-profile.php:74
+#: workintry/templates/template-parts/author.php:100
+msgid "Added to favourites"
+msgstr ""
+
+#: functions.php:106
+msgid "Added to Save"
+msgstr ""
+
+#: includes/functions.php:261
+msgid "Added to your wishlist"
+msgstr ""
+
+#: functions.php:567 workintry/front-end/dashboard-templates/profile.php:71
+msgid "Address"
+msgstr ""
+
+#: workintry/front-end/functions.php:1218
+msgid "Address is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:159
+msgid "Address must be atleast 10 characters!"
+msgstr ""
+
+#: workintry/meta-boxes.php:597
+msgid "Admin Amount"
+msgstr ""
+
+#: workintry/settings-page.php:436
+msgid "Admin will approve gig"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:105
+#: workintry/front-end/dashboard-templates/packages.php:111
+msgid "Ads"
+msgstr ""
+
+#: includes/hooks.php:1783 includes/hooks.php:1851 includes/hooks.php:1866
+#: workintry/templates/template-parts/chat-box.php:43
+#: workintry/templates/template-parts/chat-box.php:114
+#: workintry/templates/template-parts/chat-box.php:129
+#: workintry/templates/template-parts/comments.php:64
+msgid "ago"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/listings.php:82
+msgid "All"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:34
+#: workintry/front-end/dashboard-templates/edit-home.php:98
+msgid ""
+"All * fields are required. We do take spam seriously so avoid spam otherwise "
+"your account will be blocked."
+msgstr ""
+
+#: includes/hooks.php:261
+msgid "All Categories"
+msgstr ""
+
+#: admin/post-types.php:103
+msgid "All Category"
+msgstr ""
+
+#: admin/post-types.php:214
+msgid "All Cities"
+msgstr ""
+
+#: admin/post-types.php:186
+msgid "All Country"
+msgstr ""
+
+#: includes/functions.php:442 workintry/front-end/functions.php:1583
+msgid "All fields are required"
+msgstr ""
+
+#: admin/post-types.php:158
+msgid "All Services"
+msgstr ""
+
+#: admin/post-types.php:131
+msgid "All Sub Categories"
+msgstr ""
+
+#: admin/post-types.php:242
+msgid "All Tag"
+msgstr ""
+
+#: includes/functions.php:208
+msgid "All the fields are required"
+msgstr ""
+
+#: workintry/front-end/functions.php:208
+msgid "All the fields are required!"
+msgstr ""
+
+#: includes/custom-woocommerce.php:305
+msgid "Allow Bookings"
+msgstr ""
+
+#: includes/custom-woocommerce.php:306
+msgid ""
+"Allow bookings will work as woo commerce bookings for any booking items etc"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:231
+msgid "Analytics"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:319
+#: workintry/templates/registration.php:332
+msgid "and privacy policy offered by us!"
+msgstr ""
+
+#: workintry/meta-boxes.php:177
+#: workintry/front-end/dashboard-templates/add.php:428
+#: workintry/front-end/dashboard-templates/edit-home.php:638
+#: workintry/front-end/dashboard-templates/edit-home.php:707
+msgid "Answer"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:427
+#: workintry/front-end/dashboard-templates/edit-home.php:637
+#: workintry/front-end/dashboard-templates/edit-home.php:706
+msgid "Answer:"
+msgstr ""
+
+#: includes/hooks.php:483
+msgid "Any Level"
+msgstr ""
+
+#: includes/hooks.php:406
+msgid "Any price"
+msgstr ""
+
+#: includes/hooks.php:596
+msgid "Any Ratings"
+msgstr ""
+
+#: includes/hooks.php:1712
+msgid "APPLY FILTER"
+msgstr ""
+
+#: includes/hooks.php:1644
+msgid "Apply Filter"
+msgstr ""
+
+#: workintry/settings-page.php:431
+msgid "Approve Gig"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:268
+msgid "April"
+msgstr ""
+
+#: functions.php:107
+msgid "Are you sure ?"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:281
+#: workintry/templates/registration.php:292
+msgid "Ash02518"
+msgstr ""
+
+#: functions.php:123 workintry/front-end/dashboard-templates/order.php:333
+msgid "Ask for revision"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:133
+msgid "Ask your administrator to create one"
+msgstr ""
+
+#: workintry/front-end/functions.php:717
+msgid "Atlease one tag is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:653 workintry/front-end/functions.php:1225
+msgid "Atleast one image is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1881
+#: workintry/front-end/dashboard-templates/order.php:219
+#: workintry/front-end/dashboard-templates/profile.php:111
+msgid "Attachments"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:280
+msgid "August"
+msgstr ""
+
+#: workintry/templates.php:72
+msgid "Author Ads"
+msgstr ""
+
+#: workintry/settings-page.php:87
+msgid "Author Page"
+msgstr ""
+
+#: workintry/settings-page.php:507
+msgid "Author similar gigs Description"
+msgstr ""
+
+#: admin/post-types.php:442
+msgid "Author/Company"
+msgstr ""
+
+#: workintry/settings-page.php:435
+msgid "Auto Approval"
+msgstr ""
+
+#: workintry/functions.php:169
+msgid "Available comission"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:365
+msgid "Available Earnings"
+msgstr ""
+
+#: workintry/functions.php:228
+msgid "Available earnings"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:86
+msgid "Available Earnings in Account"
+msgstr ""
+
+#: workintry/meta-boxes.php:634
+msgid "Awaiting"
+msgstr ""
+
+#: workintry/meta-boxes.php:624
+#: workintry/front-end/dashboard-templates/earnings.php:111
+#: workintry/front-end/dashboard-templates/expenses.php:80
+msgid "Awaiting Response"
+msgstr ""
+
+#: workintry/meta-boxes.php:268 workintry/meta-boxes.php:306
+msgid "Background Image"
+msgstr ""
+
+#: workintry/meta-boxes.php:235
+msgid "Banner"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:17
+msgid "Banner ID missing"
+msgstr ""
+
+#: includes/hooks.php:1666
+msgid "Base currency is set to "
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:190
+msgid "Basic"
+msgstr ""
+
+#: workintry/meta-boxes.php:66
+msgid "Basic Fast Delivery Days"
+msgstr ""
+
+#: workintry/meta-boxes.php:93
+msgid "Basic Fast Price"
+msgstr ""
+
+#: workintry/front-end/functions.php:751
+msgid "Basic gig delivery day(s) required"
+msgstr ""
+
+#: workintry/front-end/functions.php:744
+msgid "Basic gig description is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:867
+msgid "Basic gig fast delivery time and price required"
+msgstr ""
+
+#: workintry/front-end/functions.php:765
+msgid "Basic gig price is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:758
+msgid "Basic gig revision is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:737
+msgid "Basic gig title is required"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:207
+msgid "Basic Pacakge Includes:"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:118
+msgid "Basic Plan"
+msgstr ""
+
+#: workintry/settings-page.php:239
+msgid ""
+"Below settings will show/hide fields on Registration page, choose as per "
+"your own needs"
+msgstr ""
+
+#: includes/hooks.php:301 includes/hooks.php:353
+msgid "Both"
+msgstr ""
+
+#: workintry/templates/template-parts/author-profile.php:132
+#: workintry/templates/template-parts/author.php:164
+msgid "Brief Introduction"
+msgstr ""
+
+#: workintry/meta-boxes.php:203
+msgid "Bump up ad by changing date to latest"
+msgstr ""
+
+#: includes/hooks.php:947
+msgid "Bump up Gig"
+msgstr ""
+
+#: includes/hooks.php:941
+msgid "Bump UP Gig?"
+msgstr ""
+
+#: workintry/meta-boxes.php:37
+msgid "Bump up gigs ?"
+msgstr ""
+
+#: workintry/meta-boxes.php:38
+msgid "Bump up gigs [only number value]"
+msgstr ""
+
+#: workintry/meta-boxes.php:202
+msgid "Bump Up?"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:58
+msgid "Buy Package"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:122
+msgid "buy package"
+msgstr ""
+
+#: workintry/meta-boxes.php:584
+msgid "Buyer User"
+msgstr ""
+
+#: admin/post-types.php:100 admin/post-types.php:110 includes/hooks.php:1654
+#: workintry/meta-boxes.php:237 workintry/meta-boxes.php:296
+msgid "Categories"
+msgstr ""
+
+#: workintry/meta-boxes.php:336
+msgid "Categories button link?"
+msgstr ""
+
+#: workintry/meta-boxes.php:329
+msgid "Categories button title?"
+msgstr ""
+
+#: workintry/meta-boxes.php:322
+msgid "Categories description?"
+msgstr ""
+
+#: workintry/meta-boxes.php:315
+msgid "Categories title?"
+msgstr ""
+
+#: admin/post-types.php:101 admin/workintry-data.php:164
+msgid "Category"
+msgstr ""
+
+#: workintry/front-end/functions.php:1183
+msgid "Category field is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:660
+msgid "Category is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:36
+msgid "Change Password"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:319
+#: workintry/templates/registration.php:331
+msgid "Check here to indicate that you read and agree to the"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:321
+#: workintry/templates/registration.php:334
+msgid ""
+"Check here to indicate that you read and agree to the terms & conditions and "
+"privacy policy offered by us!"
+msgstr ""
+
+#: workintry/meta-terms.php:125
+msgid "Checkbox"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/chat.php:121
+msgid "Choose desired user from left side [users box] to start conversation"
+msgstr ""
+
+#: workintry/front-end/functions.php:1621
+msgid "Choose from allowed reasons only."
+msgstr ""
+
+#: includes/functions.php:567
+msgid "Choose only from available options"
+msgstr ""
+
+#: workintry/settings-page.php:169
+msgid "Choose Search Layout"
+msgstr ""
+
+#: workintry/meta-boxes.php:230
+msgid "Choose shortcode type"
+msgstr ""
+
+#: workintry/settings-page.php:176
+msgid "Chose layout"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:264
+#: workintry/templates/template-parts/author.php:331
+#: workintry/templates/template-parts/author.php:398
+msgid "Chose your desired gig and click Purchase now and get it done"
+msgstr ""
+
+#: admin/post-types.php:211 admin/post-types.php:221
+msgid "Cities"
+msgstr ""
+
+#: workintry/front-end/functions.php:1539
+msgid "Cities Loaded"
+msgstr ""
+
+#: admin/post-types.php:212
+msgid "City"
+msgstr ""
+
+#: workintry/front-end/functions.php:113 workintry/front-end/functions.php:1215
+msgid "City is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:66
+#: workintry/front-end/dashboard-templates/edit-home.php:130
+msgid "Click \"Post Now\"  button to post your new gig into list"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:396
+msgid "Click \"Post Now\"  button to post your new service into list"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/edit-home.php:666
+msgid "Click \"Update Now\"  button to update your gig into list"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:313
+msgid "Click above button to send your buyer notice about the delivery"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:378
+#: workintry/front-end/dashboard-templates/edit-home.php:617
+msgid "Click Add FAQ+ button above in the right corner to add your FAQ"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:108
+#: workintry/front-end/dashboard-templates/edit-home.php:172
+msgid "click here"
+msgstr ""
+
+#: workintry/front-end/functions.php:1914
+#: workintry/front-end/dashboard-templates/order.php:248
+msgid "Client demanded a revision"
+msgstr ""
+
+#: workintry/meta-boxes.php:236
+msgid "Clients"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:361
+#: workintry/templates/registration.php:376
+#: workintry/templates/template-parts/gig-box.php:382
+msgid "Close"
+msgstr ""
+
+#. Author of the plugin
+msgid "codesquare.co"
+msgstr ""
+
+#: workintry/meta-terms.php:15
+msgid "Color"
+msgstr ""
+
+#: workintry/functions.php:162
+msgid "Comission in Progress"
+msgstr ""
+
+#: includes/functions.php:557
+msgid "Comment field is required"
+msgstr ""
+
+#: includes/functions.php:574
+msgid "Comment should be atleast 20 characters"
+msgstr ""
+
+#: workintry/templates/template-parts/home-detail.php:77
+msgid "Common FAQ's"
+msgstr ""
+
+#: workintry/meta-boxes.php:625
+#: workintry/front-end/dashboard-templates/add.php:49
+#: workintry/front-end/dashboard-templates/earnings.php:248
+#: workintry/front-end/dashboard-templates/edit-home.php:113
+msgid "Completed"
+msgstr ""
+
+#: workintry/meta-boxes.php:635
+#: workintry/front-end/dashboard-templates/order.php:349
+msgid "Completed and accepted"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:151
+#: workintry/front-end/dashboard-templates/expenses.php:120
+msgid "Completed and closed"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:112
+#: workintry/front-end/dashboard-templates/expenses.php:81
+msgid "Completed Jobs"
+msgstr ""
+
+#: workintry/front-end/functions.php:1186
+msgid "Condition is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:48
+msgid "Confirm New Password"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:310
+#: workintry/templates/registration.php:321
+msgid "Confirm Password"
+msgstr ""
+
+#: includes/functions.php:42
+msgid "Confirm password is required."
+msgstr ""
+
+#: functions.php:101
+msgid "Confirm?"
+msgstr ""
+
+#: workintry/templates/template-parts/author-contact.php:31
+#: workintry/templates/template-parts/author-contact.php:51
+#: workintry/templates/template-parts/author.php:183
+msgid "Contact Seller"
+msgstr ""
+
+#: workintry/front-end/functions.php:646
+msgid "Content must be atleast 20 characters long"
+msgstr ""
+
+#: workintry/settings-page.php:144
+msgid "Copyright Text"
+msgstr ""
+
+#: workintry/meta-boxes.php:375 workintry/meta-boxes.php:406
+msgid "Count?"
+msgstr ""
+
+#: admin/post-types.php:183 admin/post-types.php:193
+msgid "Countries"
+msgstr ""
+
+#: admin/post-types.php:184
+msgid "Country"
+msgstr ""
+
+#: workintry/front-end/functions.php:107 workintry/front-end/functions.php:1212
+msgid "Country is required"
+msgstr ""
+
+#: workintry/templates/dashboard.php:118
+msgid "Create Gig"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:42
+msgid "Current Password"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:371
+msgid "Currently you have available earnings in your account"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/insights.php:134
+msgid "Daily Ad Views"
+msgstr ""
+
+#: workintry/templates.php:71
+msgid "Dashboard"
+msgstr ""
+
+#: workintry/settings-page.php:117
+msgid "Dashboard Active Image"
+msgstr ""
+
+#: workintry/settings-page.php:112
+msgid "Dashboard Featured Image"
+msgstr ""
+
+#: workintry/settings-page.php:122
+msgid "Dashboard Inactive Image"
+msgstr ""
+
+#: workintry/settings-page.php:100
+msgid "Dashboard Menu"
+msgstr ""
+
+#: workintry/settings-page.php:75
+msgid "Dashboard Page"
+msgstr ""
+
+#: workintry/settings-page.php:107
+msgid "Dashboard Total Gigs Image"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:170
+#: workintry/templates/template-parts/gig-box.php:173
+#: workintry/templates/template-parts/gig-box.php:247
+#: workintry/templates/template-parts/gig-box.php:250
+#: workintry/templates/template-parts/gig-box.php:324
+#: workintry/templates/template-parts/gig-box.php:327
+msgid "Day(s)"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:136
+#: workintry/front-end/dashboard-templates/packages.php:117
+#: workintry/templates/template-parts/author.php:216
+#: workintry/templates/template-parts/author.php:283
+#: workintry/templates/template-parts/author.php:350
+msgid "Days"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:292
+msgid "December"
+msgstr ""
+
+#: workintry/settings-page.php:128
+msgid "Default Color"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:64
+msgid "Delete Account"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:416
+#: workintry/front-end/dashboard-templates/edit-home.php:626
+#: workintry/front-end/dashboard-templates/edit-home.php:695
+msgid "Delete FAQ --"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:77
+msgid "Delete Now"
+msgstr ""
+
+#: functions.php:125
+msgid "Deliverd"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:149
+#: workintry/front-end/dashboard-templates/expenses.php:118
+msgid "Delivered"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:212
+#: workintry/templates/template-parts/author.php:279
+#: workintry/templates/template-parts/author.php:346
+msgid "Delivery in"
+msgstr ""
+
+#: workintry/meta-boxes.php:629
+msgid "Delivery Result/Status"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:146
+#: workintry/front-end/dashboard-templates/expenses.php:115
+msgid "Delivery Time"
+msgstr ""
+
+#: admin/workintry-data.php:229 admin/workintry-data.php:304
+#: admin/workintry-data.php:379
+#: workintry/front-end/dashboard-templates/add.php:174
+#: workintry/front-end/dashboard-templates/add.php:207
+#: workintry/front-end/dashboard-templates/add.php:240
+#: workintry/front-end/dashboard-templates/edit-home.php:257
+#: workintry/front-end/dashboard-templates/edit-home.php:343
+#: workintry/front-end/dashboard-templates/edit-home.php:429
+#: workintry/templates/template-parts/gig-box.php:166
+#: workintry/templates/template-parts/gig-box.php:243
+#: workintry/templates/template-parts/gig-box.php:320
+msgid "Delivery Time:"
+msgstr ""
+
+#: includes/hooks.php:1705
+msgid "Delivery Type"
+msgstr ""
+
+#: admin/workintry-data.php:223 admin/workintry-data.php:298
+#: admin/workintry-data.php:373 workintry/meta-boxes.php:323
+#: workintry/meta-boxes.php:369 workintry/meta-boxes.php:400
+#: workintry/front-end/dashboard-templates/add.php:168
+#: workintry/front-end/dashboard-templates/add.php:201
+#: workintry/front-end/dashboard-templates/add.php:234
+#: workintry/front-end/dashboard-templates/edit-home.php:248
+#: workintry/front-end/dashboard-templates/edit-home.php:334
+#: workintry/front-end/dashboard-templates/edit-home.php:420
+#: workintry/front-end/dashboard-templates/security.php:73
+msgid "Description"
+msgstr ""
+
+#: workintry/meta-boxes.php:261
+msgid "description"
+msgstr ""
+
+#: workintry/front-end/functions.php:1169
+msgid "Description field is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:88
+#: workintry/front-end/dashboard-templates/edit-home.php:152
+msgid "Description*:"
+msgstr ""
+
+#: workintry/meta-boxes.php:260 workintry/meta-boxes.php:368
+#: workintry/meta-boxes.php:399
+msgid "Description?"
+msgstr ""
+
+#: workintry/settings-page.php:444
+msgid "Detail Page"
+msgstr ""
+
+#: workintry/settings-page.php:20
+msgid "Detail Page Settings"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:196
+msgid "Diamond"
+msgstr ""
+
+#: workintry/meta-boxes.php:132
+msgid "Diamond Fast Delivery Days"
+msgstr ""
+
+#: workintry/meta-boxes.php:159
+msgid "Diamond Fast Price"
+msgstr ""
+
+#: workintry/front-end/functions.php:839
+msgid "Diamond gig delivery day(s) required"
+msgstr ""
+
+#: workintry/front-end/functions.php:832
+msgid "Diamond gig description is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:881
+msgid "Diamond gig fast delivery time and price required"
+msgstr ""
+
+#: workintry/front-end/functions.php:853
+msgid "Diamond gig price is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:846
+msgid "Diamond gig revision is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:825
+msgid "Diamond gig title is required"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:341
+msgid "Diamond Pacakge Includes:"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:272
+msgid "Diamond Plan"
+msgstr ""
+
+#: workintry/settings-page.php:43
+msgid "Directory Type"
+msgstr ""
+
+#: functions.php:108
+msgid "Do you really want to delete it ?"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:105
+#: workintry/front-end/dashboard-templates/edit-home.php:169
+msgid "Drop files here or"
+msgstr ""
+
+#: workintry/functions.php:21 workintry/functions.php:117
+#: workintry/functions.php:117
+#: workintry/front-end/dashboard-templates/earnings.php:325
+#: workintry/front-end/user-menu-templates/user-menu-earnings.php:25
+msgid "Earnings"
+msgstr ""
+
+#: workintry/functions.php:155
+#: workintry/front-end/dashboard-templates/earnings.php:80
+msgid "Earnings in Progress"
+msgstr ""
+
+#: workintry/functions.php:225
+msgid "Earnings in progress"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:92
+msgid "Earnings Withdrawaled"
+msgstr ""
+
+#: workintry/functions.php:127
+msgid "Earnings/Analytics"
+msgstr ""
+
+#: admin/post-types.php:32 admin/post-types.php:69 admin/post-types.php:278
+#: workintry/front-end/dashboard-templates/listings.php:137
+msgid "Edit"
+msgstr ""
+
+#: admin/post-types.php:106
+msgid "Edit Category"
+msgstr ""
+
+#: admin/post-types.php:217
+msgid "Edit City"
+msgstr ""
+
+#: admin/post-types.php:189
+msgid "Edit Country"
+msgstr ""
+
+#: admin/post-types.php:33
+msgid "Edit Gig"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/edit-home.php:139
+msgid "Edit Gig Details"
+msgstr ""
+
+#: admin/post-types.php:279
+msgid "Edit Gig Order"
+msgstr ""
+
+#: includes/custom-woocommerce.php:74 includes/custom-woocommerce.php:75
+msgid "Edit Package"
+msgstr ""
+
+#: admin/post-types.php:161
+msgid "Edit Service"
+msgstr ""
+
+#: admin/post-types.php:70
+msgid "Edit Shortcode"
+msgstr ""
+
+#: admin/post-types.php:134
+msgid "Edit Sub Category"
+msgstr ""
+
+#: admin/post-types.php:245
+msgid "Edit Tag"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:285
+#: workintry/templates/facebook-register.php:353
+#: workintry/templates/registration.php:296
+#: workintry/templates/registration.php:368
+msgid "Email"
+msgstr ""
+
+#: includes/functions.php:289
+msgid "Email field is required."
+msgstr ""
+
+#: includes/functions.php:696
+msgid "Email id required"
+msgstr ""
+
+#: includes/functions.php:32
+msgid "Email is required."
+msgstr ""
+
+#: includes/functions.php:710
+msgid "Email updated"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:354
+#: workintry/templates/registration.php:369
+#: workintry/templates/template-parts/report.php:40
+msgid "Email*"
+msgstr ""
+
+#: workintry/settings-page.php:197
+msgid "Enable Login/Register"
+msgstr ""
+
+#: workintry/settings-page.php:189
+msgid "Enable Login/Registration"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:392
+msgid "Excellent: 5 stars"
+msgstr ""
+
+#: workintry/front-end/functions.php:1198
+msgid "Exchange field is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:147
+#: workintry/front-end/dashboard-templates/expenses.php:116
+msgid "Expected Delivery Time"
+msgstr ""
+
+#: workintry/functions.php:24
+#: workintry/front-end/user-menu-templates/user-menu-expenses.php:25
+msgid "Expenses"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:141
+#: workintry/front-end/dashboard-templates/expenses.php:110
+msgid "Expiry Time"
+msgstr ""
+
+#: functions.php:561
+msgid "Facebook"
+msgstr ""
+
+#: workintry/settings-page.php:302
+msgid "Facebook Auth App ID"
+msgstr ""
+
+#: workintry/settings-page.php:308
+msgid "Facebook Auth App Secret"
+msgstr ""
+
+#: workintry/settings-page.php:290
+msgid "Facebook Login Redirect Page"
+msgstr ""
+
+#: workintry/templates.php:74
+msgid "Facebook Redirect"
+msgstr ""
+
+#: workintry/settings-page.php:22
+msgid "FAQ & Help"
+msgstr ""
+
+#: workintry/front-end/functions.php:895
+msgid "FAQ question and answer required"
+msgstr ""
+
+#: workintry/meta-boxes.php:165
+msgid "FAQ's"
+msgstr ""
+
+#: workintry/meta-boxes.php:60
+msgid "Fast Delivery"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:267
+#: workintry/front-end/dashboard-templates/edit-home.php:505
+msgid "Fast Gig Delivery"
+msgstr ""
+
+#: workintry/functions.php:27
+#: workintry/front-end/user-menu-templates/user-menu-favorite.php:27
+msgid "Favourite Gigs"
+msgstr ""
+
+#: admin/post-types.php:443 admin/post-types.php:474 includes/hooks.php:895
+#: workintry/templates/gig-grid.php:54
+#: workintry/front-end/dashboard-templates/listings.php:83
+msgid "Featured"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:57
+msgid "Featured Ad duration (days)"
+msgstr ""
+
+#: workintry/meta-boxes.php:192
+msgid "Featured Ad?"
+msgstr ""
+
+#: workintry/meta-boxes.php:26
+msgid "Featured duration in days [only number value]"
+msgstr ""
+
+#: workintry/meta-boxes.php:25
+msgid "Featured Duration?"
+msgstr ""
+
+#: workintry/meta-boxes.php:32
+msgid "Featured gigs allowed in pacakge [only number value]"
+msgstr ""
+
+#: includes/hooks.php:719
+msgid "Featured Gigs Posted"
+msgstr ""
+
+#: workintry/meta-boxes.php:31
+msgid "Featured Gigs?"
+msgstr ""
+
+#: workintry/meta-terms.php:9
+msgid "Featured Image"
+msgstr ""
+
+#: workintry/meta-boxes.php:238
+msgid "Featured Posts"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:262
+msgid "February"
+msgstr ""
+
+#: includes/hooks.php:83
+#: workintry/templates/template-parts/author-profile.php:126
+#: workintry/templates/template-parts/author.php:158
+msgid "Feedback"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:293
+#: workintry/templates/registration.php:304
+#: workintry/front-end/dashboard-templates/profile.php:85
+msgid "Female"
+msgstr ""
+
+#: workintry/front-end/functions.php:602
+msgid "File upload failed!"
+msgstr ""
+
+#: workintry/front-end/functions.php:595
+msgid "File uploaded!"
+msgstr ""
+
+#: includes/hooks.php:1662
+msgid "Filter by Price"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:269
+#: workintry/templates/facebook-register.php:270
+#: workintry/templates/registration.php:280
+#: workintry/templates/registration.php:281
+#: workintry/front-end/dashboard-templates/profile.php:50
+msgid "First Name"
+msgstr ""
+
+#: workintry/front-end/functions.php:1208
+msgid "First Name is required"
+msgstr ""
+
+#: includes/functions.php:26
+msgid "First name is required."
+msgstr ""
+
+#: workintry/front-end/functions.php:84 workintry/front-end/functions.php:89
+msgid "First name should be atleast 2 characters"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:308
+msgid "Fitler"
+msgstr ""
+
+#: includes/hooks.php:608
+msgid "Five star ratings"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:287
+#: workintry/front-end/dashboard-templates/edit-home.php:525
+msgid "For an Extra Price*:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:314
+#: workintry/front-end/dashboard-templates/add.php:339
+#: workintry/front-end/dashboard-templates/edit-home.php:552
+#: workintry/front-end/dashboard-templates/edit-home.php:577
+msgid "For an extra price*:"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:240
+#: workintry/templates/registration.php:252
+msgid "Forgot Password?"
+msgstr ""
+
+#: includes/hooks.php:620
+msgid "Four star ratings"
+msgstr ""
+
+#: workintry/settings-page.php:368
+msgid "Free Bumped Gigs"
+msgstr ""
+
+#: workintry/settings-page.php:350
+msgid "Free Featued Gigs"
+msgstr ""
+
+#: workintry/settings-page.php:386
+msgid "Free featued Gigs duration"
+msgstr ""
+
+#: workintry/settings-page.php:331
+msgid "Free Total Gigs"
+msgstr ""
+
+#: includes/hooks.php:81
+#: workintry/templates/template-parts/author-profile.php:124
+#: workintry/templates/template-parts/author.php:156
+msgid "Freelancer"
+msgstr ""
+
+#: includes/hooks.php:567 includes/hooks.php:668 includes/hooks.php:2022
+msgid "Fresh / Newbie"
+msgstr ""
+
+#: includes/hooks.php:84
+msgid "From :"
+msgstr ""
+
+#: workintry/templates/template-parts/author-profile.php:143
+#: workintry/templates/template-parts/author.php:175
+msgid "From:"
+msgstr ""
+
+#: workintry/meta-boxes.php:186
+msgid "Gallery"
+msgstr ""
+
+#: functions.php:566
+msgid "Gender"
+msgstr ""
+
+#: includes/functions.php:34
+msgid "Gender is required."
+msgstr ""
+
+#: workintry/settings-page.php:14
+msgid "General Settings"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:261
+#: workintry/templates/template-parts/author.php:328
+#: workintry/templates/template-parts/author.php:395
+#: workintry/templates/template-parts/gig-box.php:188
+#: workintry/templates/template-parts/gig-box.php:265
+#: workintry/templates/template-parts/gig-box.php:342
+msgid "Get Started Now"
+msgstr ""
+
+#: admin/post-types.php:27 admin/post-types.php:29
+msgid "Gig"
+msgstr ""
+
+#: admin/workintry-data.php:293
+#: workintry/front-end/dashboard-templates/add.php:196
+#: workintry/front-end/dashboard-templates/edit-home.php:329
+msgid "Gig 02 Title*:"
+msgstr ""
+
+#: admin/workintry-data.php:368
+#: workintry/front-end/dashboard-templates/add.php:229
+#: workintry/front-end/dashboard-templates/edit-home.php:415
+msgid "Gig 03 Title*:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:322
+msgid "Gig amount"
+msgstr ""
+
+#: workintry/meta-boxes.php:717
+msgid "Gig Delivery"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:55
+#: workintry/front-end/dashboard-templates/edit-home.php:119
+msgid "Gig description (required)"
+msgstr ""
+
+#: admin/workintry-data.php:222 admin/workintry-data.php:297
+#: admin/workintry-data.php:372
+#: workintry/front-end/dashboard-templates/add.php:167
+#: workintry/front-end/dashboard-templates/add.php:200
+#: workintry/front-end/dashboard-templates/add.php:233
+#: workintry/front-end/dashboard-templates/edit-home.php:247
+#: workintry/front-end/dashboard-templates/edit-home.php:333
+#: workintry/front-end/dashboard-templates/edit-home.php:419
+msgid "Gig Description*:"
+msgstr ""
+
+#: workintry/templates/template-parts/breadcrumb.php:23
+msgid "Gig Detail"
+msgstr ""
+
+#: workintry/settings-page.php:19 workintry/settings-page.php:426
+msgid "Gig Field Settings"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:56
+#: workintry/front-end/dashboard-templates/edit-home.php:120
+msgid "Gig gallery (required)"
+msgstr ""
+
+#: admin/workintry-data.php:104
+msgid "Gig Info"
+msgstr ""
+
+#: workintry/templates/single-workintry.php:56
+msgid "Gig is not approved yet"
+msgstr ""
+
+#: workintry/front-end/user-menu-templates/user-menu-ads.php:26
+msgid "Gig Listings"
+msgstr ""
+
+#: workintry/meta-terms.php:108
+msgid "Gig Meta"
+msgstr ""
+
+#: admin/post-types.php:275
+msgid "Gig Order"
+msgstr ""
+
+#: workintry/meta-boxes.php:570
+msgid "Gig Order Details"
+msgstr ""
+
+#: admin/post-types.php:273 admin/post-types.php:274
+msgid "Gig Orders"
+msgstr ""
+
+#: workintry/front-end/functions.php:1135
+msgid "Gig post updated successfully"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:386
+#: workintry/front-end/dashboard-templates/edit-home.php:655
+msgid "Gig Promotions"
+msgstr ""
+
+#: includes/hooks.php:1689
+msgid "Gig Ratings"
+msgstr ""
+
+#: workintry/email-hooks.php:177
+msgid "Gig reported, thank you"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:61
+#: workintry/front-end/dashboard-templates/edit-home.php:125
+msgid "Gig tags (required)"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:84
+#: workintry/front-end/dashboard-templates/edit-home.php:148
+msgid "Gig Title"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:316
+msgid "Gig title"
+msgstr ""
+
+#: workintry/meta-boxes.php:690
+msgid "Gig Type"
+msgstr ""
+
+#: admin/post-types.php:28
+msgid "Gigs"
+msgstr ""
+
+#: workintry/templates.php:77
+msgid "Gigs Search"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:193
+msgid "Gold"
+msgstr ""
+
+#: workintry/meta-boxes.php:99
+msgid "Gold Fast Delivery Days"
+msgstr ""
+
+#: workintry/meta-boxes.php:126
+msgid "Gold Fast Price"
+msgstr ""
+
+#: workintry/front-end/functions.php:795
+msgid "Gold gig delivery day(s) required"
+msgstr ""
+
+#: workintry/front-end/functions.php:788
+msgid "Gold gig description is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:874
+msgid "Gold gig fast delivery time and price required"
+msgstr ""
+
+#: workintry/front-end/functions.php:809
+msgid "Gold gig price is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:802
+msgid "Gold gig revision is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:781
+msgid "Gold gig title is required"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:274
+msgid "Gold Pacakge Includes:"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:195
+msgid "Gold Plan"
+msgstr ""
+
+#: workintry/settings-page.php:278
+msgid "Google Auth Cliend ID"
+msgstr ""
+
+#: workintry/settings-page.php:284
+msgid "Google Auth Cliend Secret"
+msgstr ""
+
+#: functions.php:562
+msgid "Google+"
+msgstr ""
+
+#: workintry/settings-page.php:173
+msgid "Grid view"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:391
+msgid "Happy: 4 stars"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/insights.php:62
+msgid "has been approved!"
+msgstr ""
+
+#: workintry/email-hooks.php:52
+msgid "Here are my further details"
+msgstr ""
+
+#: workintry/settings-page.php:248
+msgid "Hide First Name"
+msgstr ""
+
+#: workintry/settings-page.php:266
+msgid "Hide Gender"
+msgstr ""
+
+#: workintry/settings-page.php:257
+msgid "Hide Last Name"
+msgstr ""
+
+#: workintry/settings-page.php:275
+msgid "Hide Phone"
+msgstr ""
+
+#: workintry/settings-page.php:503
+msgid "Hide Related Gigs"
+msgstr ""
+
+#: workintry/settings-page.php:485
+msgid "Hide Report Gig"
+msgstr ""
+
+#: workintry/settings-page.php:494
+msgid "Hide Tags"
+msgstr ""
+
+#: includes/hooks.php:1734
+msgid "Home"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:142
+msgid "Hours"
+msgstr ""
+
+#: workintry/settings-page.php:463
+msgid "How it works"
+msgstr ""
+
+#: workintry/templates/template-parts/report.php:18
+msgid "How it works ?"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://codesquare.co"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:77
+msgid "I am a"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:281
+#: workintry/front-end/dashboard-templates/add.php:306
+#: workintry/front-end/dashboard-templates/add.php:333
+#: workintry/front-end/dashboard-templates/edit-home.php:519
+#: workintry/front-end/dashboard-templates/edit-home.php:544
+#: workintry/front-end/dashboard-templates/edit-home.php:571
+msgid "I will deliver in only*:"
+msgstr ""
+
+#: workintry/meta-terms.php:55
+msgid "Icon"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:254
+msgid "ID is missing"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:182
+#: workintry/front-end/shortcodes.php:747
+msgid "ID missing"
+msgstr ""
+
+#: admin/post-types.php:440
+msgid "Image"
+msgstr ""
+
+#: includes/hooks.php:744
+msgid "image"
+msgstr ""
+
+#: workintry/front-end/functions.php:331 workintry/front-end/functions.php:531
+msgid "Image upload failed!"
+msgstr ""
+
+#: workintry/front-end/functions.php:325 workintry/front-end/functions.php:525
+msgid "Image uploaded!"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/chat.php:101
+msgid "img"
+msgstr ""
+
+#: workintry/front-end/functions.php:120
+msgid "In phone number only numeric digits allowed!"
+msgstr ""
+
+#: workintry/meta-boxes.php:623
+#: workintry/front-end/dashboard-templates/earnings.php:109
+#: workintry/front-end/dashboard-templates/earnings.php:242
+#: workintry/front-end/dashboard-templates/expenses.php:78
+msgid "In Progress"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:35
+msgid "in your search criteria"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/listings.php:86
+msgid "Inactive"
+msgstr ""
+
+#: includes/hooks.php:724
+msgid "Inactive Gigs"
+msgstr ""
+
+#: workintry/functions.php:183
+msgid "Income you owe"
+msgstr ""
+
+#: workintry/functions.php:12
+#: workintry/front-end/user-menu-templates/user-menu-insight.php:27
+msgid "Insight"
+msgstr ""
+
+#: includes/install-plugins.php:125
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/install-plugins.php:124
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/functions.php:300
+msgid "Invalid E-mail address!"
+msgstr ""
+
+#: includes/hooks.php:1697
+msgid "Item Type"
+msgstr ""
+
+#: workintry/front-end/functions.php:1180
+msgid "Item type is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:259
+msgid "January"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:170
+msgid "Job Complete:"
+msgstr ""
+
+#: workintry/front-end/functions.php:1924
+#: workintry/front-end/dashboard-templates/order.php:258
+msgid "Job Completed"
+msgstr ""
+
+#: workintry/templates/template-parts/author-profile.php:138
+msgid "Jobs Completed:"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:237
+#: workintry/templates/registration.php:248
+msgid "Join Now"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:260
+#: workintry/templates/registration.php:271
+msgid "Join Us To Provide Services"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:277
+msgid "July"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:274
+msgid "June"
+msgstr ""
+
+#: includes/hooks.php:230
+msgid "Keyword"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/insights.php:80
+msgid "Last 7 Days"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:275
+#: workintry/templates/facebook-register.php:276
+#: workintry/templates/registration.php:286
+#: workintry/templates/registration.php:287
+#: workintry/front-end/dashboard-templates/profile.php:53
+msgid "Last Name"
+msgstr ""
+
+#: workintry/front-end/functions.php:1209
+msgid "Last Name is required"
+msgstr ""
+
+#: includes/functions.php:29
+msgid "Last name is required."
+msgstr ""
+
+#: workintry/front-end/functions.php:96 workintry/front-end/functions.php:101
+msgid "Last name should be atleast 2 characters"
+msgstr ""
+
+#: includes/hooks.php:1783 workintry/templates/template-parts/chat-box.php:43
+msgid "Last seen"
+msgstr ""
+
+#: workintry/front-end/functions.php:1221
+msgid "Latitude is required"
+msgstr ""
+
+#: workintry/functions.php:176
+msgid "Lifetime earnings"
+msgstr ""
+
+#: workintry/templates/template-parts/breadcrumb.php:29
+#: workintry/templates/template-parts/breadcrumb.php:36
+msgid "Like This Gig?"
+msgstr ""
+
+#: workintry/meta-boxes.php:337
+msgid "Link"
+msgstr ""
+
+#: functions.php:564
+msgid "Linkedin"
+msgstr ""
+
+#: workintry/settings-page.php:567
+msgid "Live"
+msgstr ""
+
+#: functions.php:105
+msgid "Login to perform this action"
+msgstr ""
+
+#: workintry/templates/template-parts/chat-box.php:189
+msgid "Login to start chat"
+msgstr ""
+
+#: workintry/settings-page.php:204
+msgid "Login/Register Page"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:330
+#: workintry/templates/registration.php:344
+msgid "Login/Registration disbaled by admin"
+msgstr ""
+
+#: workintry/templates/dashboard.php:87
+msgid "logo"
+msgstr ""
+
+#: workintry/settings-page.php:70
+msgid "Logo Image"
+msgstr ""
+
+#: workintry/functions.php:39
+#: workintry/front-end/user-menu-templates/user-menu-logout.php:25
+msgid "Logout"
+msgstr ""
+
+#: workintry/front-end/functions.php:1222
+msgid "Longitude is required"
+msgstr ""
+
+#: workintry/settings-page.php:233
+msgid "Lower Banner Image"
+msgstr ""
+
+#: workintry/settings-page.php:228
+msgid "Main Banner Image"
+msgstr ""
+
+#: workintry/meta-boxes.php:193
+msgid "Make Ad Featured"
+msgstr ""
+
+#: workintry/meta-boxes.php:286
+msgid "Make form visible or hidden"
+msgstr ""
+
+#: workintry/email-hooks.php:140
+msgid "Make sure all fields are provided, please try again"
+msgstr ""
+
+#: workintry/settings-page.php:523
+msgid "Make sure you set all fields as per your own needs"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:292
+#: workintry/templates/registration.php:303
+#: workintry/front-end/dashboard-templates/profile.php:81
+msgid "Male"
+msgstr ""
+
+#: workintry/functions.php:18
+msgid "Manage Gigs"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:265
+msgid "March"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:312
+msgid "Mark as Delivered"
+msgstr ""
+
+#: functions.php:127
+msgid "Mark as delivered"
+msgstr ""
+
+#: includes/hooks.php:1673
+msgid "Max Price"
+msgstr ""
+
+#: workintry/settings-page.php:52
+msgid "Maximum Gigs per account"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:271
+msgid "May"
+msgstr ""
+
+#: includes/hooks.php:88
+msgid "Member Since:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:277
+#: workintry/front-end/dashboard-templates/order.php:395
+msgid "Message"
+msgstr ""
+
+#: workintry/front-end/functions.php:2002
+#: workintry/front-end/functions.php:2102
+#: workintry/front-end/functions.php:2171
+#: workintry/front-end/functions.php:2234
+msgid "Message sent"
+msgstr ""
+
+#: workintry/email-hooks.php:131
+msgid "Message Sent, thank you"
+msgstr ""
+
+#: includes/functions.php:501
+msgid "Message sent, thank you"
+msgstr ""
+
+#: includes/functions.php:470
+msgid "Message should be atleast 10 characters."
+msgstr ""
+
+#: workintry/front-end/functions.php:1628
+msgid "Message should be atleast 15 characters."
+msgstr ""
+
+#: workintry/functions.php:30
+#: workintry/front-end/user-menu-templates/user-menu-chat.php:27
+msgid "Messages"
+msgstr ""
+
+#: includes/install-plugins.php:74
+msgid "Meta Box"
+msgstr ""
+
+#: includes/hooks.php:1672
+msgid "Min Price"
+msgstr ""
+
+#: workintry/settings-page.php:586
+msgid "Minimum Amount to get paid"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:147
+msgid "Minutes"
+msgstr ""
+
+#: workintry/meta-boxes.php:677
+#: workintry/front-end/dashboard-templates/earnings.php:253
+msgid "Month"
+msgstr ""
+
+#: workintry/templates/template-parts/similar-author.php:42
+msgid "More Gigs from the seller"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:53
+msgid "Most Recent"
+msgstr ""
+
+#: workintry/settings-page.php:594
+msgid ""
+"Most systems charge transaction amount like 2$ or 3$ etc, you can paste "
+"yours here too"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/favourites.php:62
+msgid "My Favourites Gigs"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/listings.php:79
+msgid "My Gigs"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:106
+msgid "My Orders"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/expenses.php:75
+msgid "My Purchases"
+msgstr ""
+
+#: includes/functions.php:449 workintry/front-end/functions.php:1597
+msgid "Name should be atleast 4 characters."
+msgstr ""
+
+#: workintry/templates/template-parts/report.php:37
+msgid "Name*"
+msgstr ""
+
+#: workintry/front-end/functions.php:1195
+msgid "Negotiable field is required"
+msgstr ""
+
+#: functions.php:102
+msgid "Never show this message again"
+msgstr ""
+
+#: admin/post-types.php:109
+msgid "New Category Name"
+msgstr ""
+
+#: admin/post-types.php:220
+msgid "New City Name"
+msgstr ""
+
+#: admin/post-types.php:192
+msgid "New Country Name"
+msgstr ""
+
+#: admin/post-types.php:34
+msgid "New Gig"
+msgstr ""
+
+#: admin/post-types.php:280
+msgid "New Gig Order"
+msgstr ""
+
+#: includes/custom-woocommerce.php:76
+msgid "New Package"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:45
+msgid "New Password"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:397
+#: workintry/templates/registration.php:412
+msgid "New password"
+msgstr ""
+
+#: workintry/front-end/functions.php:221
+msgid "New password did not match!"
+msgstr ""
+
+#: admin/post-types.php:164
+msgid "New Service Name"
+msgstr ""
+
+#: admin/post-types.php:71
+msgid "New Shortcode"
+msgstr ""
+
+#: admin/post-types.php:137
+msgid "New Sub Category Name"
+msgstr ""
+
+#: admin/post-types.php:248
+msgid "New Tag Name"
+msgstr ""
+
+#: functions.php:110 admin/post-types.php:476 workintry/meta-boxes.php:197
+#: workintry/meta-boxes.php:207 workintry/meta-boxes.php:290
+msgid "No"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/insights.php:67
+msgid "No approved ads yet"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/chat.php:113
+msgid "No chat found"
+msgstr ""
+
+#: workintry/settings-page.php:530
+msgid "No commission"
+msgstr ""
+
+#: workintry/front-end/functions.php:1499
+msgid "No country found"
+msgstr ""
+
+#: workintry/settings-page.php:390
+msgid "No day"
+msgstr ""
+
+#: workintry/settings-page.php:335 workintry/settings-page.php:354
+#: workintry/settings-page.php:372
+msgid "No Gig"
+msgstr ""
+
+#: admin/post-types.php:38
+msgid "No Gig found"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:161
+#: workintry/front-end/dashboard-templates/earnings.php:369
+#: workintry/front-end/dashboard-templates/favourites.php:122
+#: workintry/front-end/dashboard-templates/listings.php:147
+msgid "No Gig Found "
+msgstr ""
+
+#: admin/post-types.php:39
+msgid "No Gig found in trash"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/favourites.php:122
+msgid "no gig found in your favourites"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:161
+#: workintry/front-end/dashboard-templates/earnings.php:369
+#: workintry/front-end/dashboard-templates/listings.php:147
+msgid "No gig found in your selected status"
+msgstr ""
+
+#: admin/post-types.php:284
+msgid "No Gig Order found"
+msgstr ""
+
+#: admin/post-types.php:285
+msgid "No Gig Order found in trash"
+msgstr ""
+
+#: workintry/templates/dashboard.php:28 workintry/templates/dashboard.php:32
+msgid "No Kiddies Please"
+msgstr ""
+
+#: workintry/front-end/functions.php:1268
+#: workintry/front-end/functions.php:1275
+#: workintry/front-end/functions.php:1303
+#: workintry/front-end/functions.php:1310
+msgid "No kiddies Please"
+msgstr ""
+
+#: includes/custom-woocommerce.php:376 includes/functions.php:248
+#: includes/functions.php:399 workintry/front-end/functions.php:399
+#: workintry/front-end/functions.php:426 workintry/front-end/functions.php:463
+#: workintry/front-end/functions.php:1241
+#: workintry/front-end/functions.php:1824
+#: workintry/front-end/functions.php:1831
+#: workintry/front-end/functions.php:1971
+#: workintry/front-end/functions.php:1978
+#: workintry/front-end/functions.php:2025
+#: workintry/front-end/functions.php:2125
+#: workintry/front-end/functions.php:2194
+#: workintry/front-end/dashboard-templates/edit-home.php:680
+#: workintry/front-end/dashboard-templates/order.php:17
+#: workintry/front-end/dashboard-templates/order.php:29
+#: workintry/front-end/dashboard-templates/order.php:39
+msgid "No kiddies please"
+msgstr ""
+
+#: includes/functions.php:15 includes/functions.php:189
+#: includes/functions.php:283 includes/functions.php:354
+#: includes/functions.php:423 includes/functions.php:430
+#: includes/functions.php:530 includes/functions.php:537
+#: workintry/front-end/functions.php:69 workintry/front-end/functions.php:263
+#: workintry/front-end/functions.php:489 workintry/front-end/functions.php:554
+#: workintry/front-end/functions.php:633 workintry/front-end/functions.php:1342
+#: workintry/front-end/functions.php:1454
+#: workintry/front-end/functions.php:1566
+#: workintry/front-end/functions.php:1573
+msgid "No kiddies please!"
+msgstr ""
+
+#: workintry/front-end/functions.php:201
+msgid "No kiddies please."
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:133
+msgid "No package found"
+msgstr ""
+
+#: includes/custom-woocommerce.php:80
+msgid "No Packages found"
+msgstr ""
+
+#: includes/custom-woocommerce.php:81
+msgid "No Packages found in trash"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/expenses.php:130
+msgid "no purchase found in your selection"
+msgstr ""
+
+#: workintry/templates/template-parts/comments.php:73
+msgid "No review yet"
+msgstr ""
+
+#: admin/post-types.php:75
+msgid "No Shortcode found"
+msgstr ""
+
+#: admin/post-types.php:76
+msgid "No Shortcode found in trash"
+msgstr ""
+
+#: workintry/functions.php:265
+msgid "No user Found "
+msgstr ""
+
+#: workintry/functions.php:265
+msgid "No user found with available funds greater than"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:388
+msgid "Not Satisfied: 1 star"
+msgstr ""
+
+#: workintry/front-end/functions.php:1545
+msgid "Nothing Found"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/expenses.php:130
+msgid "Nothing here, "
+msgstr ""
+
+#: workintry/templates/single-workintry.php:56
+#: workintry/templates/template-parts/comments.php:73
+msgid "Nothing here: "
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:289
+msgid "November"
+msgstr ""
+
+#: workintry/meta-boxes.php:376 workintry/meta-boxes.php:407
+msgid "Number of ads to show"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:56
+msgid "Number of Bump Up Ads"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/packages.php:55
+msgid "Number of Featured Ads"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:286
+msgid "October"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:60
+#: workintry/front-end/dashboard-templates/edit-home.php:124
+msgid "Offering packages (required)"
+msgstr ""
+
+#: workintry/front-end/functions.php:234
+msgid "Old password did not match"
+msgstr ""
+
+#: includes/hooks.php:656
+msgid "One star ratings"
+msgstr ""
+
+#: includes/hooks.php:1785 workintry/templates/template-parts/chat-box.php:47
+msgid "Online"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:42
+msgid "Online seller"
+msgstr ""
+
+#: workintry/front-end/functions.php:150
+msgid "Only allowed values can be used!"
+msgstr ""
+
+#: workintry/front-end/functions.php:50
+msgid "Oops! something is going wrong."
+msgstr ""
+
+#: includes/custom-woocommerce.php:195
+msgid "Order #"
+msgstr ""
+
+#: includes/custom-woocommerce.php:260 includes/custom-woocommerce.php:525
+msgid "Order created successfully."
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:319
+msgid "Order date"
+msgstr ""
+
+#: workintry/front-end/functions.php:1904
+#: workintry/front-end/dashboard-templates/order.php:240
+msgid "Order marked as completed/delivered"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:294
+#: workintry/templates/registration.php:305
+msgid "Other"
+msgstr ""
+
+#: admin/workintry-data.php:218
+#: workintry/front-end/dashboard-templates/add.php:163
+#: workintry/front-end/dashboard-templates/edit-home.php:243
+msgid "Package 01 Title*:"
+msgstr ""
+
+#: workintry/meta-boxes.php:20
+msgid "Package duration in days [only number value]"
+msgstr ""
+
+#: workintry/meta-boxes.php:19
+msgid "Package Duration?"
+msgstr ""
+
+#: workintry/meta-boxes.php:13
+msgid "Package Settings"
+msgstr ""
+
+#: includes/custom-woocommerce.php:69 includes/custom-woocommerce.php:70
+#: includes/custom-woocommerce.php:71
+#: workintry/front-end/dashboard-templates/packages.php:37
+#: workintry/front-end/user-menu-templates/user-menu-packages.php:27
+msgid "Packages"
+msgstr ""
+
+#: workintry/settings-page.php:454
+msgid "Packages Description"
+msgstr ""
+
+#: workintry/settings-page.php:449
+msgid "Packages Title"
+msgstr ""
+
+#: admin/post-types.php:104
+msgid "Parent Category"
+msgstr ""
+
+#: admin/post-types.php:105 admin/post-types.php:133
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/post-types.php:215
+msgid "Parent City"
+msgstr ""
+
+#: admin/post-types.php:216
+msgid "Parent City:"
+msgstr ""
+
+#: admin/post-types.php:187
+msgid "Parent Country"
+msgstr ""
+
+#: admin/post-types.php:188
+msgid "Parent Country:"
+msgstr ""
+
+#: admin/post-types.php:40
+msgid "Parent Gig"
+msgstr ""
+
+#: admin/post-types.php:286
+msgid "Parent Gig Order"
+msgstr ""
+
+#: includes/custom-woocommerce.php:82
+msgid "Parent Package"
+msgstr ""
+
+#: admin/post-types.php:159 admin/post-types.php:160
+msgid "Parent Service"
+msgstr ""
+
+#: admin/post-types.php:77
+msgid "Parent Shortcode"
+msgstr ""
+
+#: admin/post-types.php:132
+msgid "Parent Sub  Category"
+msgstr ""
+
+#: admin/post-types.php:243
+msgid "Parent Tag"
+msgstr ""
+
+#: admin/post-types.php:244
+msgid "Parent Tag:"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:228
+#: workintry/templates/registration.php:239
+msgid "Password"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:306
+#: workintry/templates/registration.php:317
+msgid "password"
+msgstr ""
+
+#: includes/functions.php:395
+msgid "Password changed Successfully"
+msgstr ""
+
+#: includes/functions.php:72
+msgid "Password does not match."
+msgstr ""
+
+#: includes/functions.php:212
+msgid "Password is required"
+msgstr ""
+
+#: includes/functions.php:41
+msgid "Password is required."
+msgstr ""
+
+#: includes/functions.php:361
+msgid "Password mismatched, try again"
+msgstr ""
+
+#: includes/functions.php:367
+msgid "Password should not be empty"
+msgstr ""
+
+#: workintry/front-end/functions.php:228
+msgid "Password Updated"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:227
+#: workintry/templates/registration.php:238
+msgid "Password*"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:376
+msgid "Pay from earnings"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:377
+msgid "Pay via payment method"
+msgstr ""
+
+#: workintry/functions.php:383
+msgid "Payment from the Earnings"
+msgstr ""
+
+#: workintry/settings-page.php:591
+msgid "Payment Service fee"
+msgstr ""
+
+#: workintry/settings-page.php:21 workintry/settings-page.php:517
+msgid "Payment Settings"
+msgstr ""
+
+#: workintry/meta-boxes.php:639
+msgid "Payment Type"
+msgstr ""
+
+#: workintry/functions.php:400
+msgid "PayPal"
+msgstr ""
+
+#: workintry/settings-page.php:576
+msgid "Paypal API Password"
+msgstr ""
+
+#: workintry/settings-page.php:581
+msgid "Paypal API Signature"
+msgstr ""
+
+#: workintry/settings-page.php:571
+msgid "Paypal API username"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:375
+msgid "Paypal for payouts"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:245
+msgid "Pending"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:44
+msgid "Personal Details"
+msgstr ""
+
+#: functions.php:565
+msgid "Phone"
+msgstr ""
+
+#: workintry/front-end/functions.php:125
+msgid "Phone is required!"
+msgstr ""
+
+#: includes/functions.php:38
+msgid "Phone is required."
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:68
+msgid "Phone No"
+msgstr ""
+
+#: includes/functions.php:463
+msgid "Phone number should be a valid."
+msgstr ""
+
+#: workintry/templates/template-parts/author-contact.php:41
+msgid "Phone*"
+msgstr ""
+
+#: functions.php:563
+msgid "Pinterest"
+msgstr ""
+
+#: includes/functions.php:56 includes/functions.php:293
+#: includes/functions.php:456 workintry/front-end/functions.php:1604
+msgid "Please add a valid email address."
+msgstr ""
+
+#: includes/functions.php:64
+msgid "Please add a valid phone number."
+msgstr ""
+
+#: workintry/front-end/functions.php:44
+msgid "Please install WooCommerce plugin to process this order"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:34
+#: workintry/front-end/dashboard-templates/edit-home.php:98
+msgid "Please note!"
+msgstr ""
+
+#: workintry/front-end/functions.php:38
+msgid "Please wait you are redirecting to checkout page."
+msgstr ""
+
+#: workintry/front-end/user-menu-templates/user-menu-ads.php:31
+msgid "Post Gig"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:65
+#: workintry/front-end/dashboard-templates/add.php:395
+#: workintry/front-end/dashboard-templates/edit-home.php:129
+msgid "Post Now"
+msgstr ""
+
+#: functions.php:388
+msgid "Previous"
+msgstr ""
+
+#: admin/post-types.php:444
+#: workintry/front-end/dashboard-templates/packages.php:54
+msgid "Price"
+msgstr ""
+
+#: workintry/front-end/functions.php:1177
+msgid "Price / Currency sign is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1174
+msgid "Price field is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:274
+#: workintry/front-end/dashboard-templates/edit-home.php:512
+msgid "Price For Gig 01:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:299
+#: workintry/front-end/dashboard-templates/edit-home.php:537
+msgid "Price For Gig 02:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:326
+#: workintry/front-end/dashboard-templates/edit-home.php:564
+msgid "Price for Gig 03:"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:55
+msgid "Price high to low"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:56
+msgid "Price low to high"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:171
+msgid "Price of the Gig"
+msgstr ""
+
+#: workintry/front-end/functions.php:1192
+msgid "Price type is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:137
+msgid "Profile Image"
+msgstr ""
+
+#: workintry/front-end/functions.php:407
+msgid "Profile image updated"
+msgstr ""
+
+#: workintry/functions.php:15
+#: workintry/front-end/user-menu-templates/user-menu-profile.php:27
+msgid "Profile Settings"
+msgstr ""
+
+#: workintry/front-end/functions.php:180
+msgid "Profile Updated!"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:300
+msgid "Project Status"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:344
+msgid "Project Status (closed)"
+msgstr ""
+
+#: workintry/settings-page.php:17
+msgid "Promotion Settings"
+msgstr ""
+
+#: workintry/settings-page.php:318
+msgid "Promotional Settings"
+msgstr ""
+
+#: workintry/front-end/functions.php:1360
+msgid "Proper facebook URL with http or https required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1382
+msgid "Proper google URL with http or https required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1415
+msgid "Proper instagram URL with http or https required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1404
+msgid "Proper linkedin URL with http or https required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1393
+msgid "Proper pinterest URL with http or https required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1371
+msgid "Proper twitter URL with http or https required"
+msgstr ""
+
+#: workintry/front-end/functions.php:136
+msgid "Proper URL with http or https required"
+msgstr ""
+
+#: workintry/meta-boxes.php:178
+msgid "Provide answer which will become as answer"
+msgstr ""
+
+#: workintry/meta-boxes.php:172
+msgid "Provide question which will become as question"
+msgstr ""
+
+#: workintry/meta-terms.php:131
+msgid "Provide select field values in each line"
+msgstr ""
+
+#: workintry/meta-terms.php:115
+msgid "Provide title which will become as meta title"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:376
+msgid "Provide your payapl account email for payouts"
+msgstr ""
+
+#: workintry/templates/template-parts/comments.php:64
+msgid "Published"
+msgstr ""
+
+#: workintry/settings-page.php:600
+msgid "Put amount after which user will become seller level 1"
+msgstr ""
+
+#: workintry/settings-page.php:606
+msgid "Put amount after which user will become seller level 2"
+msgstr ""
+
+#: workintry/settings-page.php:612
+msgid "Put amount after which user will become seller level 3"
+msgstr ""
+
+#: workintry/settings-page.php:618
+msgid "Put amount after which user will become seller level 4"
+msgstr ""
+
+#: workintry/settings-page.php:624
+msgid "Put amount after which user will become seller level 5"
+msgstr ""
+
+#: workintry/settings-page.php:630
+msgid "Put amount after which user will become seller level top rated"
+msgstr ""
+
+#: workintry/meta-boxes.php:171
+#: workintry/front-end/dashboard-templates/add.php:424
+#: workintry/front-end/dashboard-templates/edit-home.php:634
+#: workintry/front-end/dashboard-templates/edit-home.php:703
+msgid "Question"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:381
+msgid "Rate your seller performance to help others"
+msgstr ""
+
+#: includes/functions.php:550
+msgid "Rating field is required"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:57
+msgid "Ratings"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/security.php:70
+msgid "Reason"
+msgstr ""
+
+#: workintry/front-end/functions.php:1461
+msgid "Reason and description are required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1478
+msgid "Reason description must be 30 characters long"
+msgstr ""
+
+#: workintry/front-end/functions.php:1472
+msgid "Reason must be 10 characters long"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/insights.php:40
+msgid "Recent Approved Ads"
+msgstr ""
+
+#: workintry/meta-boxes.php:239
+msgid "Recent Posts"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:315
+#: workintry/templates/registration.php:326
+msgid "Register Now"
+msgstr ""
+
+#: workintry/templates.php:73
+msgid "Registration"
+msgstr ""
+
+#: workintry/settings-page.php:16 workintry/settings-page.php:184
+msgid "Registration Settings"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:405
+msgid "Related Tags:"
+msgstr ""
+
+#: workintry/functions.php:269
+msgid "Release Payments"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:233
+#: workintry/templates/registration.php:244
+msgid "Remember me on this PC"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/favourites.php:113
+#: workintry/front-end/dashboard-templates/listings.php:138
+msgid "Remove"
+msgstr ""
+
+#: workintry/front-end/functions.php:1323
+msgid "Removed from wishlist successfully"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:401
+#: workintry/templates/registration.php:416
+msgid "Repeat password"
+msgstr ""
+
+#: workintry/templates/template-parts/report.php:66
+msgid "Report Now"
+msgstr ""
+
+#: workintry/templates/template-parts/report.php:31
+msgid "Report Spam"
+msgstr ""
+
+#: workintry/email-hooks.php:61
+msgid "Request sent, admin will reach you shortly"
+msgstr ""
+
+#: workintry/email-hooks.php:37 workintry/templates/facebook-register.php:392
+#: workintry/templates/registration.php:407
+msgid "Reset Password"
+msgstr ""
+
+#: workintry/templates/template-parts/author-profile.php:137
+#: workintry/templates/template-parts/author.php:169
+msgid "Response Time:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/edit-home.php:680
+msgid "Restricted Access! "
+msgstr ""
+
+#: workintry/templates/gig-grid.php:35
+msgid "results available"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:348
+#: workintry/templates/registration.php:363
+msgid "Retrieve Password"
+msgstr ""
+
+#: workintry/templates/template-parts/comments.php:17
+#: workintry/templates/template-parts/comments.php:22
+msgid "Reviews"
+msgstr ""
+
+#: workintry/meta-boxes.php:695
+#: workintry/templates/template-parts/author.php:225
+#: workintry/templates/template-parts/author.php:292
+#: workintry/templates/template-parts/author.php:359
+msgid "Revisions"
+msgstr ""
+
+#: admin/workintry-data.php:278 admin/workintry-data.php:353
+#: admin/workintry-data.php:428
+#: workintry/front-end/dashboard-templates/add.php:181
+#: workintry/front-end/dashboard-templates/add.php:214
+#: workintry/front-end/dashboard-templates/add.php:247
+#: workintry/front-end/dashboard-templates/edit-home.php:309
+#: workintry/front-end/dashboard-templates/edit-home.php:395
+#: workintry/front-end/dashboard-templates/edit-home.php:481
+#: workintry/templates/template-parts/gig-box.php:160
+#: workintry/templates/template-parts/gig-box.php:237
+#: workintry/templates/template-parts/gig-box.php:314
+msgid "Revisions:"
+msgstr ""
+
+#: workintry/meta-boxes.php:277
+msgid "Right Image"
+msgstr ""
+
+#: admin/post-types.php:485 workintry/meta-boxes.php:644
+msgid "Sale"
+msgstr ""
+
+#: workintry/settings-page.php:566
+msgid "Sandbox"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:390
+msgid "Satisfied: 3 stars"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:379
+msgid "Save"
+msgstr ""
+
+#: workintry/templates/single-workintry.php:27
+#: workintry/templates/template-parts/author-profile.php:71
+#: workintry/templates/template-parts/author.php:97
+msgid "Save this Gig now for future"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/chat.php:33
+#: workintry/templates/template-parts/breadcrumb.php:21
+#: workintry/templates/template-parts/breadcrumb.php:52
+msgid "Search"
+msgstr ""
+
+#: admin/post-types.php:102
+msgid "Search Category"
+msgstr ""
+
+#: admin/post-types.php:213
+msgid "Search City"
+msgstr ""
+
+#: admin/post-types.php:185
+msgid "Search Country"
+msgstr ""
+
+#: admin/post-types.php:37
+msgid "Search Gig"
+msgstr ""
+
+#: admin/post-types.php:283
+msgid "Search Gig Order"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:114
+msgid "Search Now"
+msgstr ""
+
+#: includes/custom-woocommerce.php:79
+msgid "Search Package"
+msgstr ""
+
+#: workintry/settings-page.php:157
+#: workintry/templates/template-parts/breadcrumb.php:64
+msgid "Search Page"
+msgstr ""
+
+#: includes/hooks.php:1735
+msgid "Search Results"
+msgstr ""
+
+#: admin/post-types.php:157
+msgid "Search Service"
+msgstr ""
+
+#: workintry/settings-page.php:15 workintry/settings-page.php:152
+msgid "Search Settings"
+msgstr ""
+
+#: admin/post-types.php:74
+msgid "Search Shortcode"
+msgstr ""
+
+#: admin/post-types.php:130
+msgid "Search Sub Category"
+msgstr ""
+
+#: admin/post-types.php:241
+msgid "Search Tag"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:104
+msgid "Search with keyword you like"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:152
+msgid "Seconds"
+msgstr ""
+
+#: workintry/functions.php:36
+#: workintry/front-end/user-menu-templates/user-menu-security.php:27
+msgid "Security Settings"
+msgstr ""
+
+#: admin/workintry-data.php:16 admin/workintry-data.php:65
+#: workintry/meta-boxes.php:70 workintry/meta-boxes.php:103
+#: workintry/meta-boxes.php:136 workintry/meta-boxes.php:234
+#: workintry/meta-boxes.php:622 workintry/meta-boxes.php:633
+#: workintry/meta-boxes.php:643 workintry/meta-boxes.php:699
+#: workintry/meta-boxes.php:710 workintry/meta-terms.php:126
+#: workintry/front-end/functions.php:1688
+#: workintry/front-end/functions.php:1734
+#: workintry/front-end/dashboard-templates/earnings.php:239
+#: workintry/front-end/dashboard-templates/earnings.php:256
+#: workintry/front-end/dashboard-templates/earnings.php:300
+msgid "Select"
+msgstr ""
+
+#: workintry/meta-boxes.php:588
+msgid "Select a buyer"
+msgstr ""
+
+#: workintry/meta-boxes.php:580
+msgid "Select a seller"
+msgstr ""
+
+#: workintry/settings-page.php:92
+msgid "Select author gigs page"
+msgstr ""
+
+#: workintry/meta-boxes.php:343
+msgid "Select Categories"
+msgstr ""
+
+#: admin/workintry-data.php:40 admin/workintry-data.php:168
+#: admin/workintry-data.php:170 includes/hooks.php:158
+#: workintry/front-end/categories-data-edit.php:14
+#: workintry/front-end/categories-data.php:12
+#: workintry/front-end/shortcodes.php:110
+#: workintry/front-end/dashboard-templates/add.php:129
+#: workintry/front-end/dashboard-templates/edit-home.php:207
+msgid "Select Category"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:57
+#: workintry/front-end/dashboard-templates/edit-home.php:121
+msgid "Select category (required)"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:127
+#: workintry/front-end/dashboard-templates/edit-home.php:205
+msgid "Select Category*:"
+msgstr ""
+
+#: workintry/front-end/functions.php:1532
+#: workintry/front-end/dashboard-templates/profile.php:64
+msgid "Select City"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:58
+msgid "Select Country"
+msgstr ""
+
+#: workintry/settings-page.php:80
+msgid "Select dashboard page"
+msgstr ""
+
+#: workintry/settings-page.php:295
+msgid "Select facebook registration/login redirect page"
+msgstr ""
+
+#: workintry/meta-terms.php:130
+msgid "Select Field Values"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:281
+msgid "Select file"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:116
+msgid "Select Files"
+msgstr ""
+
+#: workintry/meta-boxes.php:607
+msgid "Select Gig"
+msgstr ""
+
+#: includes/custom-woocommerce.php:383
+msgid "Select proper gig fields"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:368
+#: workintry/front-end/shortcodes.php:394
+#: workintry/front-end/shortcodes.php:494
+#: workintry/front-end/shortcodes.php:517
+msgid "Select proper shortcode"
+msgstr ""
+
+#: workintry/templates/template-parts/report.php:46
+msgid "Select Reason*"
+msgstr ""
+
+#: workintry/settings-page.php:209
+msgid "Select registration/login page"
+msgstr ""
+
+#: workintry/settings-page.php:162
+msgid "Select search page"
+msgstr ""
+
+#: admin/workintry-data.php:89 admin/workintry-data.php:203
+#: admin/workintry-data.php:205 workintry/front-end/categories-data-edit.php:77
+#: workintry/front-end/categories-data-edit.php:88
+#: workintry/front-end/categories-data.php:78
+#: workintry/front-end/categories-data.php:89
+#: workintry/front-end/dashboard-templates/edit-home.php:223
+msgid "Select Service"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:59
+#: workintry/front-end/dashboard-templates/edit-home.php:123
+msgid "Select service (required)"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:140
+#: workintry/front-end/dashboard-templates/edit-home.php:219
+msgid "Select Service*:"
+msgstr ""
+
+#: workintry/front-end/categories-data-edit.php:30
+#: workintry/front-end/categories-data.php:28
+msgid "Select Sub Category"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:58
+#: workintry/front-end/dashboard-templates/edit-home.php:122
+msgid "Select Sub sategory (required)"
+msgstr ""
+
+#: admin/workintry-data.php:186 admin/workintry-data.php:188
+#: workintry/front-end/dashboard-templates/edit-home.php:214
+msgid "Select Subcategory"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:133
+#: workintry/front-end/dashboard-templates/edit-home.php:211
+msgid "Select Subcategory*:"
+msgstr ""
+
+#: workintry/settings-page.php:221
+msgid "Select terms page"
+msgstr ""
+
+#: workintry/meta-terms.php:121
+msgid "Select type like checkbox or select"
+msgstr ""
+
+#: workintry/meta-boxes.php:602
+msgid "Seller Amount"
+msgstr ""
+
+#: workintry/front-end/functions.php:1926
+#: workintry/front-end/dashboard-templates/order.php:260
+msgid "Seller delivered and buyer accepted"
+msgstr ""
+
+#: workintry/templates/template-parts/breadcrumb.php:54
+msgid "Seller Detail"
+msgstr ""
+
+#: includes/hooks.php:1681
+msgid "Seller Level"
+msgstr ""
+
+#: includes/hooks.php:555
+msgid "Seller Level # 01"
+msgstr ""
+
+#: includes/hooks.php:543
+msgid "Seller Level # 02"
+msgstr ""
+
+#: includes/hooks.php:531
+msgid "Seller Level # 03"
+msgstr ""
+
+#: includes/hooks.php:519
+msgid "Seller Level # 04"
+msgstr ""
+
+#: includes/hooks.php:507
+msgid "Seller Level # 05"
+msgstr ""
+
+#: includes/hooks.php:2020
+msgid "Seller Level 1"
+msgstr ""
+
+#: workintry/settings-page.php:597
+msgid "Seller level 1 amount"
+msgstr ""
+
+#: includes/hooks.php:2018
+msgid "Seller Level 2"
+msgstr ""
+
+#: workintry/settings-page.php:603
+msgid "Seller level 2 amount"
+msgstr ""
+
+#: includes/hooks.php:2016
+msgid "Seller Level 3"
+msgstr ""
+
+#: workintry/settings-page.php:609
+msgid "Seller level 3 amount"
+msgstr ""
+
+#: includes/hooks.php:2014
+msgid "Seller Level 4"
+msgstr ""
+
+#: workintry/settings-page.php:615
+msgid "Seller level 4 amount"
+msgstr ""
+
+#: includes/hooks.php:2012
+msgid "Seller Level 5"
+msgstr ""
+
+#: workintry/settings-page.php:621
+msgid "Seller level 5 amount"
+msgstr ""
+
+#: workintry/settings-page.php:627
+msgid "Seller level Top Rated amount"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:377
+msgid "Seller Performance"
+msgstr ""
+
+#: includes/hooks.php:495
+msgid "Seller Top Level"
+msgstr ""
+
+#: workintry/meta-boxes.php:576
+msgid "Seller User"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/chat.php:136
+#: workintry/front-end/dashboard-templates/order.php:285
+#: workintry/templates/template-parts/chat-box.php:185
+msgid "Send"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:274
+msgid "Send a message"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/earnings.php:283
+msgid "September"
+msgstr ""
+
+#: admin/post-types.php:156 admin/workintry-data.php:199
+msgid "Service"
+msgstr ""
+
+#: workintry/front-end/functions.php:698
+msgid "Service is required"
+msgstr ""
+
+#: admin/post-types.php:155 admin/post-types.php:165
+#: admin/workintry-data.php:60
+msgid "Services"
+msgstr ""
+
+#: workintry/settings-page.php:562
+msgid "Set API to sandbox or live"
+msgstr ""
+
+#: includes/hooks.php:955
+msgid "Set as Bump up Gig?"
+msgstr ""
+
+#: includes/hooks.php:888 includes/hooks.php:903
+msgid "Set as Featured ?"
+msgstr ""
+
+#: workintry/settings-page.php:460
+msgid "Set requirements for ad detail page"
+msgstr ""
+
+#: workintry/settings-page.php:526
+msgid "Set sale comission"
+msgstr ""
+
+#: workintry/front-end/functions.php:1429
+msgid "Settings saved successfully"
+msgstr ""
+
+#: workintry/templates/template-parts/social-share.php:14
+msgid "Share"
+msgstr ""
+
+#: admin/post-types.php:64 admin/post-types.php:66 admin/post-types.php:497
+msgid "Shortcode"
+msgstr ""
+
+#: workintry/meta-boxes.php:229
+msgid "Shortcode For?"
+msgstr ""
+
+#: workintry/meta-boxes.php:223
+msgid "Shortcode Settings"
+msgstr ""
+
+#: admin/post-types.php:65
+msgid "Shortcodes"
+msgstr ""
+
+#: workintry/templates/template-parts/related.php:45
+#: workintry/templates/template-parts/similar-author.php:45
+msgid "Show All"
+msgstr ""
+
+#: workintry/settings-page.php:243 workintry/settings-page.php:247
+msgid "Show First Name"
+msgstr ""
+
+#: workintry/meta-boxes.php:285
+msgid "Show Form?"
+msgstr ""
+
+#: workintry/settings-page.php:261 workintry/settings-page.php:265
+msgid "Show Gender"
+msgstr ""
+
+#: workintry/settings-page.php:252 workintry/settings-page.php:256
+msgid "Show Last Name"
+msgstr ""
+
+#: workintry/settings-page.php:270 workintry/settings-page.php:274
+msgid "Show Phone"
+msgstr ""
+
+#: workintry/settings-page.php:499
+msgid "Show Realted Gigs"
+msgstr ""
+
+#: workintry/settings-page.php:502
+msgid "Show Related Gigs"
+msgstr ""
+
+#: workintry/settings-page.php:484
+msgid "Show Report Gig"
+msgstr ""
+
+#: workintry/settings-page.php:481
+msgid "Show Report Gig Form"
+msgstr ""
+
+#: workintry/settings-page.php:490 workintry/settings-page.php:493
+msgid "Show Tags"
+msgstr ""
+
+#: workintry/settings-page.php:476
+msgid ""
+"Show/Hide field settings to show or hide Property content on detail page"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:247
+#: workintry/templates/registration.php:259
+msgid "Sign in with facebook"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:250
+#: workintry/templates/registration.php:261
+msgid "Sign in with Gmail"
+msgstr ""
+
+#: workintry/templates/template-parts/related.php:43
+msgid "Similar Gigs"
+msgstr ""
+
+#: workintry/templates/template-parts/author-profile.php:136
+#: workintry/templates/template-parts/author.php:168
+msgid "Since:"
+msgstr ""
+
+#: includes/functions.php:643 includes/functions.php:675
+msgid "Some thing went wrong try again"
+msgstr ""
+
+#: workintry/email-hooks.php:36
+msgid "Someone requested for password change here is link to change password"
+msgstr ""
+
+#: workintry/functions.php:467
+msgid "Something went wrong"
+msgstr ""
+
+#: workintry/email-hooks.php:65
+msgid "Something went wrong please try again"
+msgstr ""
+
+#: includes/functions.php:372
+msgid "Something went wrong, no kiddies please"
+msgstr ""
+
+#: workintry/email-hooks.php:135 workintry/email-hooks.php:181
+#: workintry/front-end/functions.php:239
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: workintry/front-end/functions.php:468 workintry/front-end/functions.php:2007
+#: workintry/front-end/functions.php:2107
+#: workintry/front-end/functions.php:2176
+#: workintry/front-end/functions.php:2239
+msgid "Something went wrong, try again"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:52
+msgid "Sort By"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:265
+#: workintry/templates/registration.php:276
+msgid "Start Smart Today"
+msgstr ""
+
+#: workintry/meta-boxes.php:240
+msgid "Stats"
+msgstr ""
+
+#: workintry/meta-boxes.php:618
+msgid "Status"
+msgstr ""
+
+#: admin/post-types.php:128 admin/post-types.php:138
+msgid "Sub Categories"
+msgstr ""
+
+#: admin/post-types.php:129
+msgid "Sub Category"
+msgstr ""
+
+#: admin/workintry-data.php:12
+msgid "Sub category"
+msgstr ""
+
+#: workintry/front-end/functions.php:679
+msgid "Sub category is required"
+msgstr ""
+
+#: workintry/meta-boxes.php:361 workintry/meta-boxes.php:392
+msgid "Sub Title"
+msgstr ""
+
+#: workintry/meta-boxes.php:247
+msgid "Sub title"
+msgstr ""
+
+#: workintry/meta-boxes.php:360 workintry/meta-boxes.php:391
+msgid "Sub Title?"
+msgstr ""
+
+#: workintry/meta-boxes.php:246
+msgid "Sub title?"
+msgstr ""
+
+#: admin/workintry-data.php:181
+msgid "Subcategory"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:357
+#: workintry/templates/facebook-register.php:406
+#: workintry/templates/registration.php:372
+#: workintry/templates/registration.php:421
+#: workintry/front-end/dashboard-templates/order.php:396
+msgid "Submit"
+msgstr ""
+
+#: includes/functions.php:226
+msgid "Successfully Logged in, redirecting..."
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:46
+#: workintry/front-end/dashboard-templates/edit-home.php:110
+msgid "Summary:"
+msgstr ""
+
+#: workintry/settings-page.php:139
+msgid "System Currency"
+msgstr ""
+
+#: admin/post-types.php:240
+msgid "Tag"
+msgstr ""
+
+#: admin/post-types.php:239 admin/post-types.php:249
+#: workintry/front-end/dashboard-templates/add.php:365
+#: workintry/front-end/dashboard-templates/edit-home.php:603
+msgid "Tags"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:364
+#: workintry/front-end/dashboard-templates/edit-home.php:602
+msgid "Tags*:"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:319
+#: workintry/templates/registration.php:332
+msgid "Terms & Conditions"
+msgstr ""
+
+#: workintry/settings-page.php:216
+msgid "Terms & conditions page"
+msgstr ""
+
+#: workintry/meta-boxes.php:241
+msgid "Testimonial"
+msgstr ""
+
+#: workintry/functions.php:156
+msgid ""
+"This amount means total amount of gigs in the progress including comission"
+msgstr ""
+
+#: workintry/functions.php:163
+msgid "This amount means total amount of your comission in the progress"
+msgstr ""
+
+#: workintry/functions.php:177
+msgid "This amount means total amount you have earned so far as comission"
+msgstr ""
+
+#: workintry/functions.php:184
+msgid ""
+"This amount means total amount you owe to users which they earned through "
+"gigs"
+msgstr ""
+
+#: workintry/functions.php:170
+msgid "This amount means total available amount you have earned as comission"
+msgstr ""
+
+#: admin/post-types.php:44
+msgid "This is where you can add new Gigs."
+msgstr ""
+
+#: includes/custom-woocommerce.php:86
+msgid "This is where you can add new packages to your online store."
+msgstr ""
+
+#: admin/post-types.php:81
+msgid "This is where you can add new shortcodes."
+msgstr ""
+
+#: admin/post-types.php:290
+msgid "This is where you can see new gig orders."
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:351
+msgid "This project have been delivered by seller and accepted by the buyer"
+msgstr ""
+
+#: includes/hooks.php:632
+msgid "Three star ratings"
+msgstr ""
+
+#: workintry/front-end/functions.php:444 workintry/front-end/functions.php:451
+#: workintry/front-end/functions.php:458
+msgid "Thumbnail Deleted"
+msgstr ""
+
+#: workintry/front-end/functions.php:1249
+msgid "Thumbnail deleted"
+msgstr ""
+
+#: workintry/meta-boxes.php:648
+msgid "Time"
+msgstr ""
+
+#: admin/post-types.php:441 admin/post-types.php:496
+#: workintry/meta-boxes.php:254 workintry/meta-boxes.php:316
+#: workintry/meta-boxes.php:330 workintry/meta-boxes.php:353
+#: workintry/meta-boxes.php:384 workintry/meta-terms.php:114
+msgid "Title"
+msgstr ""
+
+#: workintry/front-end/functions.php:1168
+msgid "Title field is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:640
+msgid "Title must be atleast 10 characters long"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:81
+#: workintry/front-end/dashboard-templates/edit-home.php:145
+msgid "Title*:"
+msgstr ""
+
+#: workintry/meta-boxes.php:253 workintry/meta-boxes.php:352
+#: workintry/meta-boxes.php:383
+msgid "Title?"
+msgstr ""
+
+#: workintry/functions.php:400
+msgid "to"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:111
+#: workintry/front-end/dashboard-templates/edit-home.php:175
+msgid "to upload"
+msgstr ""
+
+#: includes/hooks.php:2010
+msgid "Top Level Seller"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:133
+msgid "Top Searches:"
+msgstr ""
+
+#: workintry/functions.php:257
+msgid "Total"
+msgstr ""
+
+#: includes/hooks.php:706
+msgid "Total Gigs Posted"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:180
+#: workintry/templates/template-parts/gig-box.php:257
+#: workintry/templates/template-parts/gig-box.php:334
+msgid "Total:"
+msgstr ""
+
+#: functions.php:560
+msgid "Twitter"
+msgstr ""
+
+#: includes/hooks.php:644
+msgid "Two star ratings"
+msgstr ""
+
+#: workintry/meta-terms.php:120
+#: workintry/front-end/dashboard-templates/earnings.php:236
+msgid "Type"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/chat.php:135
+#: workintry/templates/template-parts/chat-box.php:184
+msgid "Type message..."
+msgstr ""
+
+#: workintry/settings-page.php:336
+msgid "Unlimited"
+msgstr ""
+
+#: functions.php:314
+msgid "unnamed"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:94
+#: workintry/front-end/dashboard-templates/security.php:52
+msgid "Update"
+msgstr ""
+
+#: admin/post-types.php:107
+msgid "Update Category"
+msgstr ""
+
+#: admin/post-types.php:218
+msgid "Update City"
+msgstr ""
+
+#: admin/post-types.php:190
+msgid "Update Country"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/edit-home.php:665
+msgid "Update Now"
+msgstr ""
+
+#: workintry/functions.php:33
+msgid "Update Package"
+msgstr ""
+
+#: admin/post-types.php:162
+msgid "Update Service"
+msgstr ""
+
+#: admin/post-types.php:135
+msgid "Update Sub Category"
+msgstr ""
+
+#: admin/post-types.php:246
+msgid "Update Tag"
+msgstr ""
+
+#: includes/hooks.php:964
+msgid "Update your package to set Bump up Gigs"
+msgstr ""
+
+#: includes/hooks.php:915
+msgid "Update your package to set featured Gigs"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:95
+#: workintry/front-end/dashboard-templates/edit-home.php:159
+msgid "Upload Gallery of Your Gig*:"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/add.php:102
+#: workintry/front-end/dashboard-templates/edit-home.php:166
+msgid "Upload Photos"
+msgstr ""
+
+#: workintry/front-end/functions.php:1201
+msgid "Urgent field is required"
+msgstr ""
+
+#: workintry/meta-boxes.php:706
+msgid "Used Revisions"
+msgstr ""
+
+#: includes/functions.php:108
+msgid "User already exists. Please try another one."
+msgstr ""
+
+#: workintry/email-hooks.php:53
+msgid "User Email:"
+msgstr ""
+
+#: workintry/functions.php:222
+msgid "User Name"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:280
+#: workintry/templates/registration.php:291
+msgid "Username"
+msgstr ""
+
+#: includes/functions.php:31
+msgid "Username is required."
+msgstr ""
+
+#: workintry/functions.php:464
+msgid "users failed"
+msgstr ""
+
+#: workintry/functions.php:464
+msgid "users paid "
+msgstr ""
+
+#: workintry/front-end/functions.php:671
+msgid "Valid category is required"
+msgstr ""
+
+#: includes/functions.php:703
+msgid "Valid email id required"
+msgstr ""
+
+#: workintry/front-end/functions.php:709
+msgid "Valid service is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:690
+msgid "Valid sub category is required"
+msgstr ""
+
+#: workintry/front-end/functions.php:1204
+msgid "Video field is required"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/favourites.php:112
+#: workintry/front-end/dashboard-templates/listings.php:136
+msgid "View"
+msgstr ""
+
+#: workintry/front-end/shortcodes.php:463
+#: workintry/front-end/shortcodes.php:716
+msgid "View All"
+msgstr ""
+
+#: admin/post-types.php:35 admin/post-types.php:36
+msgid "View Gig"
+msgstr ""
+
+#: admin/post-types.php:281 admin/post-types.php:282
+msgid "View Gig Order"
+msgstr ""
+
+#: includes/custom-woocommerce.php:77 includes/custom-woocommerce.php:78
+msgid "View Package"
+msgstr ""
+
+#: admin/post-types.php:72 admin/post-types.php:73
+msgid "View Shortcode"
+msgstr ""
+
+#: workintry/email-hooks.php:15
+msgid "View User"
+msgstr ""
+
+#: functions.php:129 workintry/front-end/dashboard-templates/order.php:318
+msgid "Waiting Response"
+msgstr ""
+
+#: workintry/front-end/functions.php:1189
+msgid "Warranty is required"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:260
+#: workintry/templates/registration.php:271
+msgid "We are Open To Expand"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:224
+#: workintry/templates/registration.php:235
+msgid "Web Developer"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/profile.php:74
+msgid "Website"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:217
+#: workintry/templates/registration.php:226
+msgid "Welcome Back"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:372
+msgid "Which can be used to buy gig."
+msgstr ""
+
+#: includes/hooks.php:365
+msgid "With fast delivery"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:46
+msgid "With profile photo"
+msgstr ""
+
+#: includes/hooks.php:313
+msgid "With revisions"
+msgstr ""
+
+#: includes/hooks.php:377
+msgid "Without fast delivery"
+msgstr ""
+
+#: includes/hooks.php:325
+msgid "Without revisions"
+msgstr ""
+
+#: includes/install-plugins.php:64
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/install-plugins.php:69
+msgid "WooCommerce Stripe Gateway"
+msgstr ""
+
+#. Name of the plugin
+msgid "Workintry"
+msgstr ""
+
+#: functions.php:272
+msgid "workintry"
+msgstr ""
+
+#: workintry/meta-terms.php:5
+msgid "Workintry Fields"
+msgstr ""
+
+#: includes/install-plugins.php:138
+#, php-format
+msgid "Workintry plugin recommends the following plugin: %1$s."
+msgid_plural "Workintry plugin recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: plugin name.
+#. 'installing'                      => __( 'Installing Plugin: %s', 'workintry' ),
+#. %s: plugin name.
+#. 'updating'                        => __( 'Updating Plugin: %s', 'workintry' ),
+#. 'oops'                            => __( 'Something went wrong with the plugin API.', 'workintry' ),
+#: includes/install-plugins.php:132
+#, php-format
+msgid "Workintry plugin requires the following plugin: %1$s."
+msgid_plural "Workintry plugin requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: workintry/settings-page.php:8
+msgid "Workintry Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Workintry WordPress premium plugin for freelance and online jobs related "
+"business with all basic requirements built in."
+msgstr ""
+
+#: includes/functions.php:218
+msgid "Wrong Login/password combination"
+msgstr ""
+
+#: workintry/meta-boxes.php:664
+#: workintry/front-end/dashboard-templates/earnings.php:297
+msgid "Year"
+msgstr ""
+
+#: functions.php:109 workintry/meta-boxes.php:198 workintry/meta-boxes.php:208
+#: workintry/meta-boxes.php:291
+msgid "Yes"
+msgstr ""
+
+#: includes/custom-woocommerce.php:571
+msgid "You are redirecting to checkout for payments."
+msgstr ""
+
+#: workintry/front-end/functions.php:994
+msgid "You can't bump your gig, update your package to bump gigs"
+msgstr ""
+
+#: workintry/front-end/functions.php:977
+msgid "You can't create gig, delete old gigs to create new one"
+msgstr ""
+
+#: workintry/front-end/functions.php:21
+msgid "You have already in cart, We are redirecting to checkout"
+msgstr ""
+
+#: includes/functions.php:81
+msgid "You should agree to terms and conditions"
+msgstr ""
+
+#: includes/functions.php:143
+msgid "Your account has created. You can now login to use your account."
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/insights.php:62
+msgid "Your Ad"
+msgstr ""
+
+#: includes/custom-woocommerce.php:531
+msgid "Your earnings are not that much chose other method to pay."
+msgstr ""
+
+#: workintry/templates/facebook-register.php:284
+#: workintry/templates/registration.php:295
+msgid "Your Email"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:223
+#: workintry/templates/registration.php:233
+#: workintry/templates/template-parts/author-contact.php:44
+msgid "Your Email*"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:289
+#: workintry/templates/registration.php:300
+msgid "Your Gender"
+msgstr ""
+
+#: workintry/templates/template-parts/report.php:63
+msgid "Your Message"
+msgstr ""
+
+#: workintry/templates/template-parts/author-contact.php:47
+msgid "Your Message*"
+msgstr ""
+
+#: workintry/templates/template-parts/author-contact.php:38
+msgid "Your Name*"
+msgstr ""
+
+#: workintry/templates/template-parts/author.php:257
+#: workintry/templates/template-parts/author.php:324
+#: workintry/templates/template-parts/author.php:391
+msgid "Your own Gig"
+msgstr ""
+
+#: workintry/templates/template-parts/gig-box.php:186
+#: workintry/templates/template-parts/gig-box.php:263
+#: workintry/templates/template-parts/gig-box.php:340
+msgid "Your own gig"
+msgstr ""
+
+#: workintry/templates/facebook-register.php:301
+#: workintry/templates/registration.php:312
+msgid "Your Phone"
+msgstr ""
+
+#: includes/functions.php:671
+msgid "Your review posted, thanks"
+msgstr ""
+
+#: workintry/templates/gig-grid.php:34
+msgid "Your Search Result"
+msgstr ""
+
+#: functions.php:124 workintry/front-end/dashboard-templates/order.php:327
+msgid "Your seller delivered order, take action"
+msgstr ""
+
+#: workintry/front-end/dashboard-templates/order.php:319
+msgid "Your seller did not send this order yet"
+msgstr ""
+
+#: workintry/templates/dashboard.php:53
+msgid "© 2020 Workintry All rights reserved. Design by CodeSquareCo"
+msgstr ""

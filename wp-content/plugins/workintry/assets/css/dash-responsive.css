@@ -1,0 +1,187 @@
+@media (max-width:1680px){
+	.pc-menures{display: block;}
+	.pc-sidebarholder{
+		width: 0;
+		padding: 0;
+		z-index: 9;
+		padding: 0;		
+	}
+	.pc-main{padding-left: 30px;}
+	.pc-menuresopen .pc-sidebarholder{
+		padding:60px 20px 20px;
+		width: 280px;
+		padding: 0;
+	}
+	.pc-menuresopen .pc-sidebarholder .pc-menures{
+		left: 260px;
+		border-radius: 50%;
+		z-index: 99;
+		color: #fff;
+	}
+}
+@media (max-width:1320px){
+	.page-template-dashboard .pc-wrapper.pc-haslayout.pc-wrapper{ overflow: hidden; }
+	.pc-addlistingbtn .pc-btn{min-width: 150px;}
+	.pc-addlistingbtn{margin-left: 20px; }
+	.pc-navigation > ul > li{margin: 0 20px;}
+	.pc-listings-content{ width: 80%; }
+}
+@media (max-width:1199px){
+	.pc-logo a{padding-right: 20px;}
+	.pc-loginholder{padding-left: 20px;}
+	.pc-notiarea{margin-right:20px; }
+	.pc-loginarea figure figcaption i{margin-left: 10px; }
+	.pc-navigation > ul > li{margin: 0 15px;}
+	.pc-navigation > ul > li.sub-menu-item{margin-right: 20px;}
+}
+@media (max-width:1080px){
+	.pc-navigationarea .pc-rightarea{
+		float: left;
+		width: 100%;
+		border-top: 1px solid rgba(255, 255, 255,0.07);
+	}
+	.pc-logo{
+		width: 100%;
+		max-width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+	.pc-logo a{
+			border: 0;
+	}
+	.navbar-nav .sub-menu{right: -130px;}
+	.navbar-nav .sub-menu:before{
+		right: auto;
+		left: 60px;
+	}
+	.pc-menures{top: 110px;}
+	.pc-sidebarholder{
+		margin-top: 124px; 
+	}
+	.pc-navfixed {
+	    margin: 0;
+	}
+	.pc-sidebarnavholder{padding-bottom: 183px;}
+}
+@media (max-width:991px){
+	.pc-sidebarholder{ padding: 0; }
+	.pc-messages-holder > ul > li{
+		width: 100% !important;
+	}
+	/*.pc-messages-holder > ul > li:nth-child(2){display: none;}*/
+	.pc-showmsg.pc-messages-holder > ul > li:nth-child(1){display: none;}
+	.pc-showmsg.pc-messages-holder > ul > li:nth-child(2){display: block;}
+	.pc-closechat{display: block;}
+	.pc-opening-form fieldset .form-group.half-form-group{width: 100%;}
+	.pc-lg-mt{margin-top: 30px;}
+	.pc-navigation > ul > li.sub-menu-item{margin: 0;}
+	.pc-nav{
+		width: auto;
+		margin:20px 0;
+		float: left;
+	}
+	.navbar-nav .sub-menu{
+		margin: 0;
+		padding: 0;
+	}
+	.pc-navigation .sub-menu li a{
+		line-height: inherit;
+		padding: 10px 40px
+	}
+	.pc-navigation{
+		top: 100%;
+		left: 0;
+		background: #fff;
+		position: absolute;
+	}
+	.pc-navigation > ul{text-align: left;}
+	.pc-navigation .sub-menu li + li{border: 0;}
+	.pc-navigation .sub-menu li a,
+	.pc-navigation > ul > li + li{border-top:1px solid rgba(33,33,33,0.15);}
+	.pc-navigation > ul > li > a{
+		color: #3e3e3e;
+		padding: 10px 20px;
+	}
+	.pc-navigation > ul li{margin: 0;}
+	.pc-navigation ul li{
+		width: 100%;
+		float: left;
+		display: block;
+	}
+	.pc-navigation .sub-menu{
+		clear: both;
+		opacity: 1;
+		visibility: visible;
+		box-shadow: none;
+		transition: none;
+		float: left;
+		display: none;
+		position: static;
+		width: 100% !important;
+	}
+	.pc-open .pc-dropbtn i:before{
+		content: "\e873";
+	}
+	.pc-dropbtn{display: block;}
+}
+@media (max-width:800px){
+	.pc-myaccount .pc-formtheme{
+		width: 100%;
+		float: left;
+		margin-top: 30px; 
+	}
+	.pc-upload{padding: 0}
+	.pc-headermedia-form fieldset .half-form-group-3{width: 50%;}
+}
+@media (max-width:767px){
+	.pc-replaybox .form-group input{padding: 0;}
+	.pc-messages-section{padding: 0;}
+	.pc-replaybox .pc-btn{
+		position: relative;
+		float: right;
+	}
+	.pc-replaybox{padding:30px 0;}
+	.pc-formtheme fieldset .half-form-group-3{width: 50%;}
+	.pc-listings-img{margin: 0;}
+	.pc-listings-item{
+		flex-direction: column;
+		text-align: center;
+	}
+	.pc-listings-content,
+	.pc-listings-option{margin: 20px 0 0;}
+	.pc-dashboardbox,
+	.pc-main{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.pc-loginholder{
+		padding: 0;
+		border: 0;
+		margin: 0;
+	}
+	.pc-listings-content{ width: 100%; }
+}
+@media (max-width:640px){}
+@media (max-width:568px){
+	.pc-addlistingbtn{display: none;}
+	.pc-openingdays{display: none;}
+	.pc-openingtime{width: 100%;}
+}
+@media (max-width:480px){
+	.pc-formtheme fieldset .half-form-group-3,
+	.pc-formtheme fieldset .form-group.half-form-group{width: 100%;}
+	.pc-reviews-img{margin: 0 0 20px;}
+	.pc-reviews-content{
+		float: left;
+		width: 100%;
+	}
+	.pc-breadcrumb{
+		float: left;
+		width: 100%;
+		text-align: left;
+		margin-top: 10px; 
+	}
+	.pc-breadcrumb li:first-child{padding-left: 0;}
+}
+@media (max-width:479px){}
+@media (max-width:320px){}

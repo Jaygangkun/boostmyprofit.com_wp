@@ -1,0 +1,130 @@
+.rwmb-text-clone{ float: left; }
+.ui-sortable .rwmb-button.add-clone{ margin-top: 0; margin: 0; margin-left: 5px;  }
+.ui-sortable .rwmb-button.remove-clone{ top: 4px; right: -25px; }
+.ui-sortable > div:nth-child(1) .remove-clone{ display: none !important; }
+/*Earnings*/
+.w-haslayout{
+	width: 100%;
+}
+.w-haslayout .col-md-4{
+	width: 19%;
+	float: left;
+	padding: 0 5px;
+}
+.w-haslayout .pc-dashboardinfo-gig{
+	padding: 30px;
+	text-align: center;
+	background: #fff;
+	border-radius: 5px;
+}
+.users-list .list{
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.users-list .list > div{
+	padding: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    text-align: left;
+    border: none;
+}
+.clear{
+	clear: both;
+}
+.users-list .list:nth-child(even){
+	background: #fff;
+}
+.users-list .list p {
+	margin: 0;
+	padding: 10px 10px;
+    font-size: 14px;
+}
+/*Workintry post*/
+#post-body #codesquare_workintry_add_gig_metas ul{
+	float: left !important;
+	width: 30% !important;
+}
+#post-body #codesquare_workintry_add_gig_metas ul li ul{
+	width: 100% !important;
+}
+#post-body #codesquare_workintry_add_gig_metas ul li ul{
+	padding: 0 !important;
+}
+#post-body #codesquare_workintry_add_gig_metas ul li{
+	float: left !important;
+    width: 100% !important;
+    list-style-type: none !important;
+    list-style-type: none !important;
+    padding: 15px 20px !important;
+	padding: 20px !important;
+	background-color: #fff !important;
+}
+#post-body #codesquare_workintry_add_gig_metas ul li select{
+	width: 80% !important;
+	float: none !important;
+	margin-left: auto !important;
+}
+#post-body #codesquare_workintry_add_gig_metas ul li span{
+	margin: 0 !important;
+    line-height: 18px !important;
+    color: #3f3f3f !important;
+    font-size: 13px !important;
+    margin: 0!important;
+    width: 50%;
+    float: left;
+}
+#post-body #codesquare_workintry_add_gig_metas .wi-packagesform li {
+    float: left !important;
+    width: 100% !important;
+    list-style-type: none !important;
+    list-style-type: none !important;
+    padding: 15px 20px !important;
+    margin-bottom: 15px;
+}
+#post-body #codesquare_workintry_add_gig_metas .wi-packagesform li ul li{
+	padding: 0 !important;
+}
+/*#post-body #extra_info_data .form-title {
+    font-size: 13px !important;
+    color: #404040 !important;
+    font-family: 'Merriweather Sans' !important;
+    font-weight: 700 !important;
+    line-height: 18px !important;
+    display: block !important;
+}*/
+#post-body .wi-dbbox-content .wi-form .form-control, .wi-dbbox-content .wi-form .wi-select select {
+    height: 50px !important;
+    font-size: 14px !important;
+    background-color: #fcfcfc !important;
+}
+#post-body .wi-dbbox-content .wi-form .form-control{
+	width: 100% !important
+}
+#post-body .clear-all{
+	height: 1px !important;
+	display: block !important;
+	clear: both !important;
+}
+.meta-box-sortables #codesquare_workintry_add_gig_metas input,
+.meta-box-sortables #codesquare_workintry_add_gig_metas textarea{
+	width: 90%;
+}
+.meta-box-sortables #codesquare_workintry_add_gig_metas input[type=checkbox]{
+	width: auto;
+}
+.meta-box-sortables #codesquare_workintry_add_gig_metas textarea{ height: 120px; }
+.meta-box-sortables #codesquare_workintry_add_gig_metas .form-group{
+	margin-bottom: 20px
+}
+.hidden-service{
+	display: none !important;
+}
+.wo-hidden-item{
+	display: none !important;
+}
