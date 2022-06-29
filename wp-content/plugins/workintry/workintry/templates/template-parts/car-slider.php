@@ -61,6 +61,7 @@ if( !empty( $gallery ) ){
 		navContainerClass: 'hp-slider-nav',
 		navText: ['<span class=\"ti-arrow-left\"></span>', '<span class=\"ti-arrow-right\"></span>'],
 		responsiveRefreshRate : 200,
+		autoHeight: true,
 	}).on('changed.owl.carousel', syncPosition);
 	sync2.on('initialized.owl.carousel', function () {
 		sync2.find(\".owl-item\").eq(0).addClass(\"current\");

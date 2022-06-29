@@ -67,9 +67,9 @@ if( !function_exists( 'codesquare_workintry_print_ad_grid' ) ){
 					foreach ( $gallery as $value ) {
 						$full_image = wp_get_attachment_image_src( $value, 'ad-grid' );	
 					?>					
-					<img src="<?php echo esc_url( $full_image[0] ); ?>" alt="<?php echo esc_attr( get_the_title( $post_id ) ); ?>">
+					<a href="<?php echo esc_url(get_the_permalink( $post_id )); ?>"><img src="<?php echo esc_url( $full_image[0] ); ?>" alt="<?php echo esc_attr( get_the_title( $post_id ) ); ?>"></a>
 				<?php } } else { ?>
-					<img src="<?php echo esc_url( $thumbnail ); ?>" alt="<?php echo esc_attr( get_the_title( $post_id ) ); ?>">
+					<a href="<?php echo esc_url(get_the_permalink( $post_id )); ?>"><img src="<?php echo esc_url( $thumbnail ); ?>" alt="<?php echo esc_attr( get_the_title( $post_id ) ); ?>"></a>
 				<?php } ?>			
 			</figure>
 			<div class="wi-freelacnercontent">

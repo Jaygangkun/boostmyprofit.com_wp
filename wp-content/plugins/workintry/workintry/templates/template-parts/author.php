@@ -145,45 +145,6 @@ $author_url     = !empty( $author_url ) ? get_the_permalink( $author_url ) : '';
 $author_url     = add_query_arg( 'author-id', $post_author_id, $author_url );
 ?>
 <aside>
-	<div class="wi-profilehead">
-	    <div class="wi-profile">
-	        <figure>
-	        	<img src="<?php echo esc_url( $profile_image ); ?>" alt="<?php echo esc_attr( $username ); ?>">
-	        </figure>
-	        <div class="wi-profileinfo">	            
-	            <?php do_action( 'codesquare_workintry_print_user_level', $post_author_id ); ?>	            
-	            <div class="wi-ftitle">
-	                <a href="#"><?php esc_html_e('Freelancer', 'workintry'); ?></a>
-	                <h3><?php echo esc_html( $username ); ?></h3>
-	                <span><em> <i class="fa fa-star"></i> <?php echo esc_html( $ratings ); ?></em> (<?php echo esc_html( $total_ratings ); ?>&nbsp;<?php esc_html_e('Feedback', 'workintry'); ?>)</span>
-	            </div>
-	        </div>
-	    </div>
-	    <div class="wi-profile-content">
-	        <div class="wi-protitle">
-	            <h4><?php esc_html_e('Brief Introduction', 'workintry'); ?></h4>
-	            <p><?php echo esc_html( $description ); ?></p>
-	        </div>
-	        <ul class="wi-profilelist">
-	            <li><span><em><?php esc_html_e('Since:', 'workintry'); ?></em><?php echo esc_html( $ago ); ?></span></li>
-	            <li><span><em><?php esc_html_e('Response Time:', 'workintry'); ?></em><?php echo esc_html( $ago ); ?></span></li>
-	            <li><span><em><?php esc_html_e('Job Complete:', 'workintry'); ?></em><?php echo esc_html( $total_completed ); ?><?php esc_html_e(' Jobs', 'workintry'); ?></span></li>
-	            <?php if( !empty( $final_location ) ){ ?>
-		            <li>
-		            	<span>
-		            		<em>
-		            			<?php esc_html_e('From:', 'workintry'); ?>
-		            		</em>	
-		            		<?php echo esc_html( $final_location ); ?>
-		            	</span>
-		            </li>
-	        	<?php } ?>
-	        </ul>
-	        <div class="wi-profilebtns">
-	            <a href="<?php echo esc_url( $author_url ); ?>" class="wi-btntwo"><?php esc_html_e('Contact Seller', 'workintry'); ?></a>
-	        </div>
-	    </div>
-	</div>
 	<div class="wi-sidepackage">
 	    <ul class="nav nav-tabs" id="myTab" role="tablist">
 	        <li class="nav-item">
@@ -400,6 +361,46 @@ $author_url     = add_query_arg( 'author-id', $post_author_id, $author_url );
 	        </div>
 	    </div>
 	</div>
+	<div class="wi-profilehead">
+	    <div class="wi-profile">
+	        <figure>
+	        	<img src="<?php echo esc_url( $profile_image ); ?>" alt="<?php echo esc_attr( $username ); ?>">
+	        </figure>
+	        <div class="wi-profileinfo">	            
+	            <?php do_action( 'codesquare_workintry_print_user_level', $post_author_id ); ?>	            
+	            <div class="wi-ftitle">
+	                <a href="#"><?php esc_html_e('Freelancer', 'workintry'); ?></a>
+	                <h3><?php echo esc_html( $username ); ?></h3>
+	                <span><em> <i class="fa fa-star"></i> <?php echo esc_html( $ratings ); ?></em> (<?php echo esc_html( $total_ratings ); ?>&nbsp;<?php esc_html_e('Feedback', 'workintry'); ?>)</span>
+	            </div>
+	        </div>
+	    </div>
+	    <div class="wi-profile-content">
+	        <div class="wi-protitle">
+	            <h4><?php esc_html_e('Brief Introduction', 'workintry'); ?></h4>
+	            <p><?php echo esc_html( $description ); ?></p>
+	        </div>
+	        <ul class="wi-profilelist">
+	            <li><span><em><?php esc_html_e('Since:', 'workintry'); ?></em><?php echo esc_html( $ago ); ?></span></li>
+	            <li><span><em><?php esc_html_e('Response Time:', 'workintry'); ?></em><?php echo esc_html( $ago ); ?></span></li>
+	            <li><span><em><?php esc_html_e('Job Complete:', 'workintry'); ?></em><?php echo esc_html( $total_completed ); ?><?php esc_html_e(' Jobs', 'workintry'); ?></span></li>
+	            <?php if( !empty( $final_location ) ){ ?>
+		            <li>
+		            	<span>
+		            		<em>
+		            			<?php esc_html_e('From:', 'workintry'); ?>
+		            		</em>	
+		            		<?php echo esc_html( $final_location ); ?>
+		            	</span>
+		            </li>
+	        	<?php } ?>
+	        </ul>
+	        <div class="wi-profilebtns">
+	            <a href="<?php echo esc_url( $author_url ); ?>" class="wi-btntwo"><?php esc_html_e('Contact Seller', 'workintry'); ?></a>
+	        </div>
+	    </div>
+	</div>
+	
 	<?php if( !empty( $tags ) ){ ?>
 		<div class="wi-relatedtags">
 			<h4><?php esc_html_e('Related Tags:', 'workintry'); ?></h4>

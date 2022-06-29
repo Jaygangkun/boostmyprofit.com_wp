@@ -1475,6 +1475,7 @@ li.wi-rss a { color:#ff6600; }
 	width: 100%;
 	list-style-type: none;
 	margin: 0;
+	margin-left: 0px !important;
 }
 .wi-packagelist li:nth-child(even){
 	background-color: #fcfcfc;
